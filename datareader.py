@@ -1,3 +1,7 @@
+# datareader.py takes the survey csv and creates another csv with
+# everyone's songs and song features labelled with their username
+
+
 from joblib import delayed, Parallel
 import json
 import math
@@ -146,6 +150,8 @@ def get_data_from_user(username):
     return df
 
 
+# !!!!!!!!!!!!!!!!!!!
+# INPUT CSV GOES HERE
 students_df = pd.read_csv('datacollection_042623.csv')
 
 # get rid of some silly columns
@@ -194,4 +200,7 @@ frames = Parallel(n_jobs=8)(delayed(get_data_from_user)(u)
 frames = list(filter(lambda x: not x.empty, frames))
 all_data = pd.concat(frames)
 
+
+# !!!!!!!!!!!!!!!!!!!!
+# OUTPUT CSV GOES HERE
 all_data.to_csv('all_cornell.csv', index=False)
