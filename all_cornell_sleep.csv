@@ -1,0 +1,512 @@
+username,id,title,artist,explicit,popularity,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+deadpan.typicalnerdbird1492,0vNzSqWSSf1Y1gs2jmQbyu,Above (Haikyuu) [Lofi Remix],nyzohx,False,19,0.628,0.197,-20.522,0.0805,0.884,0.843,0.0891,0.363,135.172
+deadpan.typicalnerdbird1492,60zlkOrTCHjpRTd1g6PI5y,Chinese Satellite,Phoebe Bridgers,False,0,0.302,0.444,-9.948,0.0453,0.754,0.0244,0.152,0.379,120.026
+deadpan.typicalnerdbird1492,1r8UXSVkuABgWj3kHEaIh3,Hat Trick,Lexie Liu,False,0,0.558,0.58,-5.293,0.0932,0.522,0.0,0.109,0.431,177.047
+deadpan.typicalnerdbird1492,7fXkNQfwKD2d8Sb1fbE6EZ,Bygone,Lexie Liu,False,30,0.717,0.592,-6.835,0.029,0.0452,0.132,0.0989,0.217,117.988
+deadpan.typicalnerdbird1492,5jSuSxPNY1BOQjjnGnyrEw,後會無期,G.E.M.,False,46,0.412,0.149,-13.74,0.0387,0.932,0.0,0.108,0.256,101.964
+deadpan.typicalnerdbird1492,3w10qlA65AgyaMk7tk93tw,捉迷藏,Lexie Liu,False,32,0.602,0.333,-10.052,0.037,0.906,0.0,0.0719,0.269,96.132
+deadpan.typicalnerdbird1492,3XXBdntUrvuxtNCrCAnV3V,巴别塔的猫 A BABEL CAT,Lexie Liu,False,31,0.52,0.392,-7.173,0.0288,0.434,0.000169,0.226,0.148,143.978
+deadpan.typicalnerdbird1492,4MqBQNJeivOhL6kkvunDkN,Deep Down,Lexie Liu,False,33,0.628,0.626,-6.921,0.0364,0.312,0.000144,0.111,0.36,139.997
+deadpan.typicalnerdbird1492,4H73CNDBQpE9gp3YTFfC7y,Reading In Bed,Emily Haines & The Soft Skeleton,False,42,0.511,0.204,-14.518,0.0256,0.906,0.36,0.111,0.0999,77.904
+deadpan.typicalnerdbird1492,07c66SO9kYqa5GSmvLsQZy,Smoke Signals (feat. Tessa Violet),"Cavetown, Tessa Violet",False,53,0.573,0.16,-16.587,0.037,0.933,0.000111,0.109,0.246,104.708
+deadpan.typicalnerdbird1492,3r1LRa46LclyJO4SO0qdP8,四百擊,王源,False,19,0.536,0.757,-5.902,0.0261,0.00835,0.744,0.176,0.558,100.016
+deadpan.typicalnerdbird1492,72AjnwcGU3lVVP9gLgRsVx,Wu Ji - Instrumental Ver.,Hai Lin,False,1,0.365,0.328,-10.489,0.026,0.554,0.146,0.102,0.0477,83.711
+deadpan.typicalnerdbird1492,0Nixi0QxZSGPdszRfqVyNR,Wu Ji - Piano Ver.,Hai Lin,False,0,0.449,0.189,-16.81,0.0474,0.991,0.864,0.11,0.328,158.317
+deadpan.typicalnerdbird1492,6q2siYjkPyHLD9GqXRJWQR,Heat Lightning,Mitski,False,46,0.546,0.268,-13.547,0.0255,0.674,0.00811,0.14,0.236,139.973
+deadpan.typicalnerdbird1492,2AvzqXc6yxZGLQzuSDoTcv,誰能明白我,"George Lam, David Ling Jr",False,45,0.681,0.322,-10.001,0.0335,0.738,0.0,0.201,0.338,125.379
+deadpan.typicalnerdbird1492,126Exuy1o5klZvhz7jMddR,莫再悲,"George Lam, Danny Chung",False,37,0.604,0.497,-7.664,0.0452,0.648,0.0,0.068,0.472,176.492
+deadpan.typicalnerdbird1492,2iQoDmT1ayHFCHNVY8nzSl,最愛是誰,"George Lam, David Ling Jr",False,43,0.55,0.296,-12.046,0.0265,0.574,0.0011,0.0946,0.253,83.005
+deadpan.typicalnerdbird1492,1YrlYk4iWEFmn2KQfYNOEz,I Need Some Sleep,Eels,False,62,0.664,0.307,-10.14,0.0325,0.869,0.458,0.107,0.193,128.029
+deadpan.typicalnerdbird1492,4na7Gwn4tqUCxScgHOWAip,All Is Found (Lullaby Ending) - Outtake,Evan Rachel Wood,False,54,0.291,0.142,-14.769,0.0379,0.924,0.0,0.0759,0.319,78.432
+deadpan.typicalnerdbird1492,5t4EMyyTKdL4TKFSVE45pn,"Isabella's Lullaby (from ""The Promised Neverland"")",AmaLee,False,0,0.289,0.321,-8.57,0.0351,0.935,0.0,0.108,0.215,111.647
+deadpan.typicalnerdbird1492,3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,Billie Eilish,False,85,0.704,0.225,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006
+deadpan.typicalnerdbird1492,342LDqu1qxqr2eh5KGJ1ee,All Dolled-Up in Straps,The National,False,0,0.431,0.335,-14.137,0.0304,0.38,0.884,0.133,0.186,141.781
+deadpan.typicalnerdbird1492,4WnwrZsv8lVHt0ribAeL1I,平凡天使,G.E.M.,False,46,0.651,0.175,-13.896,0.0361,0.944,0.0,0.133,0.299,139.749
+deadpan.typicalnerdbird1492,5ptViFrfoKdGPTdd9oQCwr,Universe,EXO,False,54,0.38,0.439,-5.529,0.0314,0.603,0.0,0.133,0.146,139.805
+deadpan.typicalnerdbird1492,5QvDxSU9JM5Y6L6wiI99sW,꿈 She’s Dreaming,EXO,False,0,0.59,0.639,-4.548,0.0427,0.0816,0.0,0.0788,0.462,72.496
+deadpan.typicalnerdbird1492,42HB7NqTtooRK7Lrwvwrq2,Dear DREAM,NCT DREAM,False,58,0.677,0.624,-8.973,0.0871,0.137,6.41e-05,0.589,0.422,93.023
+deadpan.typicalnerdbird1492,6KAfUGPFo4ve8yxVan2Mgv,Knock On,NCT 127,False,45,0.411,0.466,-7.979,0.0386,0.219,1.51e-06,0.148,0.354,66.536
+deadpan.typicalnerdbird1492,1Bb6jVrsg8cXxMCBxIWJUn,Through the Night,IU,False,50,0.401,0.311,-7.327,0.0437,0.754,0.0,0.279,0.282,79.197
+deadpan.typicalnerdbird1492,18Zr5WWu7X9LVool3pJRum,Two Slow Dancers,Mitski,False,0,0.225,0.106,-13.166,0.0328,0.797,0.000767,0.108,0.0535,81.392
+deadpan.typicalnerdbird1492,5Yb82JrDj09gQHQtjWgYYo,Pink in the Night,Mitski,False,0,0.262,0.398,-9.509,0.0303,0.184,0.0,0.294,0.11,102.835
+deadpan.typicalnerdbird1492,20heAqI3ysB8CjwBMCx6PD,Come into the Water,Mitski,False,0,0.395,0.375,-10.614,0.0271,0.631,0.000129,0.164,0.353,89.916
+deadpan.typicalnerdbird1492,6kkwzB6hXLIONkEk9JciA6,Weightless,Marconi Union,False,69,0.139,0.22,-19.974,0.0324,0.856,0.831,0.17,0.0789,71.432
+deadpan.typicalnerdbird1492,5LLtNp8qc3NaCIieZ2W4Dk,Night Trouble,Petit Biscuit,False,61,0.411,0.364,-15.335,0.0743,0.951,0.93,0.126,0.0685,95.967
+1283949946,2Vp0ue7NNLHFF6RKSdOEuN,Candy Says,The Velvet Underground,False,55,0.525,0.0632,-23.321,0.0305,0.94,0.763,0.105,0.24,79.273
+1283949946,1J5D4uTHMhiHCWxmuOinVy,Make It With You,The Main Ingredient,False,24,0.371,0.304,-12.343,0.0274,0.9,0.845,0.103,0.404,79.957
+1283949946,7pfqtkZsNheOoDziqquDT3,Five String Serenade,Mazzy Star,False,53,0.407,0.0926,-20.77,0.0318,0.504,0.127,0.117,0.205,161.916
+1283949946,3M9yVArbLWa5IwrWlj6Axq,Roots,Billie Marten,False,33,0.597,0.533,-11.983,0.0319,0.934,0.208,0.167,0.236,134.047
+1283949946,4kbfCbt9pSGv6APLAnbUdG,Ring Around the Rosie,Michael Seyer,False,45,0.573,0.344,-13.67,0.0322,0.568,0.0168,0.116,0.546,150.195
+1283949946,0rPc2m5HUqa1g8npvSS6kl,Thoughts in My Mind,"Donnie & Joe Emerson, Eldon",False,46,0.499,0.355,-10.412,0.0295,0.975,0.837,0.107,0.315,76.442
+1283949946,3BdHMOIA9B0bN53jbE5nWe,Blue Light,Mazzy Star,False,61,0.451,0.222,-15.508,0.0285,0.837,0.63,0.0978,0.179,138.943
+1283949946,4yxSvdt8kl6jMdvFaiNtve,Lucky Love,Michael Seyer,False,53,0.661,0.311,-13.288,0.0263,0.474,0.00366,0.105,0.234,143.966
+1283949946,4zXuYQNDmw3dlauyc8q3Kd,We'll Never Have Sex,Leith Ross,False,70,0.365,0.07,-17.095,0.0838,0.959,0.000977,0.111,0.443,174.053
+1283949946,14Zab7jJKwK89fY4RxXl3N,My Life in Art,Mojave 3,False,46,0.483,0.244,-15.25,0.0319,0.325,0.622,0.113,0.119,102.578
+1283949946,11VwZwNF29HrqwalYUMitb,Pale Blue Eyes,The Velvet Underground,False,64,0.637,0.107,-18.759,0.0349,0.911,0.00146,0.103,0.296,82.879
+1283949946,41o2ydrj7Xm9Yt5odIBqq4,Velvet Light,Jakob,False,65,0.67,0.419,-10.523,0.0751,0.75,0.135,0.0976,0.513,77.919
+1283949946,01TyFEZu6mHbffsVfxgrFn,Show Me How,Men I Trust,False,81,0.791,0.267,-11.997,0.0415,0.674,0.534,0.102,0.544,165.99
+1283949946,2hdeaGl9nT3UoQIgSqctHj,Indian Summer,The Doors,False,55,0.495,0.154,-17.792,0.0301,0.859,0.139,0.106,0.147,102.673
+1283949946,7m6NKiP2uUoDzWS1GxBfFt,Naked,Sabrina Claudio,False,46,0.504,0.34,-12.018,0.0881,0.723,0.234,0.511,0.33,146.131
+1283949946,1rnDI0XCoUrE7N5DkCMDUg,(At Your Best) You Are Love,Aaliyah,False,0,0.624,0.449,-10.652,0.033,0.745,0.00986,0.0696,0.565,78.056
+1283949946,3FzK2g50oLcx8vqETwOn07,Love Songs on the Radio,Mojave 3,False,56,0.457,0.25,-15.669,0.0269,0.899,0.0896,0.109,0.0739,145.879
+1283949946,2zLIjfjQ8kMy7WSSLmF0I2,Thank You - 2008 Remaster,Bonnie Raitt,False,58,0.67,0.279,-15.589,0.0289,0.793,0.00879,0.109,0.552,77.82
+1283949946,6Ijmj8Z0L31hCp5pLZnT5U,Numb,Men I Trust,False,70,0.783,0.303,-14.393,0.0527,0.811,0.945,0.109,0.65,138.816
+1283949946,1C042FLYy7rP3MfnkOcnha,Cherry Wine - Live,Hozier,False,68,0.415,0.11,-14.901,0.0388,0.951,0.00236,0.0962,0.234,81.876
+1283949946,7opFLwPI53eORdmxyv7Y3f,I Root,Michael Nau,False,54,0.641,0.513,-9.957,0.0304,0.864,0.185,0.104,0.525,116.617
+1283949946,70uStmkVop2Jts9XmUdxzF,Early Blue,F. J. McMahon,False,44,0.705,0.391,-12.663,0.0274,0.768,0.0296,0.117,0.699,92.449
+bad_mug,3AVrVz5rK8Hrqo9YGiVGN5,Apocalypse,Cigarettes After Sex,False,83,0.369,0.467,-9.018,0.0274,0.0194,0.46,0.109,0.174,94.473
+bad_mug,69UqtTHfUKAJweQwEStRzC,Sunsetz,Cigarettes After Sex,False,79,0.412,0.477,-9.381,0.029,0.0542,0.798,0.0975,0.141,75.302
+bad_mug,7Cu2COdH93MnuireuKNiS3,Streetcar,Daniel Caesar,False,67,0.41,0.298,-11.796,0.0473,0.721,0.0,0.158,0.142,109.651
+bad_mug,14JzyD6FlBD5z0wV5P07YI,when the party's over,Billie Eilish,False,0,0.498,0.104,-14.08,0.0621,0.979,7.86e-05,0.0895,0.205,124.001
+bad_mug,7cQ8LLZrO7LaAYnGKKwWvw,Sleeping?,Lily Aron,False,12,0.431,0.229,-17.074,0.0393,0.95,0.00823,0.142,0.179,81.109
+bad_mug,5Tp4UJvnsF4Zd05k0zXUte,CPR,Summer Walker,False,65,0.693,0.369,-12.683,0.175,0.637,0.00335,0.0951,0.141,140.148
+bad_mug,1IF5UcqRO42D12vYwceOY6,From the Dining Table,Harry Styles,False,74,0.671,0.156,-16.288,0.0371,0.804,0.0518,0.113,0.201,94.08
+bad_mug,67kXYrMTQbS7MVbXyGyxHm,Angels,Khalid,False,59,0.472,0.265,-10.059,0.0356,0.959,0.000499,0.1,0.204,111.558
+bad_mug,41yIvlFgvGwxq8qTqAR7eG,Bloom - Bonus Track,The Paper Kites,False,2,0.592,0.416,-9.794,0.0246,0.882,0.000586,0.112,0.417,96.002
+bad_mug,75JFxkI2RXiU7L9VXzMkle,The Scientist,Coldplay,False,85,0.557,0.442,-7.224,0.0243,0.731,1.46e-05,0.11,0.213,146.277
+bad_mug,5E30LdtzQTGqRvNd7l6kG5,Daddy Issues,The Neighbourhood,False,86,0.588,0.521,-9.461,0.0329,0.0678,0.149,0.123,0.337,85.012
+bad_mug,3lG6OtGDsYAOALxEmubQQm,Happiness is a butterfly,Lana Del Rey,False,78,0.467,0.119,-10.99,0.0401,0.969,1.4e-06,0.0973,0.156,70.499
+bad_mug,4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,False,88,0.575,0.648,-4.891,0.0358,0.583,0.0,0.115,0.466,75.977
+bad_mug,0V5cvmTKsYmF5FmGGEAfmS,Je te laisserai des mots,Patrick Watson,False,85,0.303,0.187,-16.757,0.0356,0.989,0.489,0.101,0.213,132.731
+bad_mug,0RnxpSzxzwZgFQ0NahQr9K,Easily,Bruno Major,False,72,0.773,0.256,-8.545,0.0481,0.491,0.00612,0.144,0.357,118.893
+bad_mug,0QzuaeCEEOV40Pn7IvKEny,double take,dhruv,False,83,0.656,0.436,-11.141,0.0744,0.845,0.0,0.221,0.196,109.239
+bad_mug,6h6runZeeczWEuEW2pFvYW,New Home (Slowed),Austin Farwell,False,69,0.356,0.00558,-27.72,0.0417,0.99,0.934,0.0991,0.122,70.012
+bad_mug,7D0RhFcb3CrfPuTJ0obrod,Sparks,Coldplay,False,86,0.371,0.268,-10.506,0.0281,0.748,0.0517,0.104,0.165,102.617
+bad_mug,40T5GIqQ1CegGm2PTEl8Bu,idontwannabeyouanymore,Billie Eilish,False,54,0.483,0.412,-8.461,0.0402,0.737,0.0,0.116,0.247,170.163
+bad_mug,1VyA8mbSyXOdJx2lguR8Uu,Romeo & Juliet,Peter McPoland,False,66,0.318,0.476,-7.108,0.0441,0.454,1.57e-05,0.503,0.0807,160.737
+bad_mug,3EaJDYHA0KnX88JvDhL9oa,Dark Red,Steve Lacy,False,87,0.603,0.784,-4.023,0.062,0.446,8.32e-06,0.119,0.769,172.041
+bad_mug,3xKsf9qdS1CyvXSMEid6g8,Pink + White,Frank Ocean,False,88,0.545,0.545,-7.362,0.107,0.667,5.48e-05,0.417,0.549,159.94
+bad_mug,48QKOSXSIdV6nZkT0pfqLn,Flower,Johnny Stimson,False,57,0.486,0.361,-7.682,0.21,0.135,0.0,0.0989,0.5,196.78
+bad_mug,2LLzfpBmO40TwqM2CwytQF,Je te veux,"Erik Satie, Giacomo Scinardo",False,51,0.461,0.126,-19.782,0.0427,0.995,0.907,0.117,0.221,112.242
+bad_mug,0flo3KqhjkcuoB1G6Mhq7s,Fly Me to the Moon,The Macarons Project,False,67,0.46,0.113,-15.763,0.0322,0.915,0.0011,0.0959,0.32,107.519
+bad_mug,7zFXmv6vqI4qOt4yGf3jYZ,Get You (feat. Kali Uchis),"Daniel Caesar, Kali Uchis",False,82,0.658,0.294,-8.533,0.0321,0.422,5.2e-05,0.0749,0.358,74.038
+bad_mug,58dSdjfEYNSxte1aNVxuNf,Easy,Mac Ayres,False,65,0.722,0.282,-7.484,0.106,0.373,0.00557,0.147,0.217,91.367
+bad_mug,2nGFzvICaeEWjIrBrL2RAx,Put Your Records On,Corinne Bailey Rae,False,79,0.739,0.511,-7.844,0.0362,0.167,1.34e-06,0.133,0.542,96.038
+bad_mug,1lORkxEMmsCZqhoxcmk3A3,Nothing,Bruno Major,False,77,0.555,0.27,-15.892,0.0888,0.931,0.544,0.103,0.271,139.681
+bad_mug,1boXOL0ua7N2iCOUVI1p9F,Japanese Denim,Daniel Caesar,True,78,0.707,0.238,-8.818,0.0379,0.0905,2.42e-06,0.0842,0.345,124.156
+bad_mug,4EWBhKf1fOFnyMtUzACXEc,Pluto Projector,Rex Orange County,False,79,0.379,0.219,-11.196,0.0307,0.707,0.000691,0.118,0.188,79.786
+bad_mug,0J2lmSTQQWhTiglHDbhLWm,"Waltz No. 1, Collapse",Hikaru Shirosu,False,58,0.505,0.0239,-27.412,0.0445,0.994,0.956,0.123,0.193,155.588
+bad_mug,30QD4VRP9yEneOh0eGTrtJ,Solitude,Billie Holiday,False,67,0.462,0.15,-13.531,0.0522,0.984,0.000902,0.105,0.19,98.66
+bad_mug,06yuShwZF9qkru7PAfv2JK,Less and Less,Matt Maltese,False,53,0.346,0.296,-9.872,0.0367,0.883,0.00101,0.0927,0.194,71.924
+sup.arna,0YBNpbrmpZdFRT0NFqii5C,Fly Me to the Moon,The Macarons Project,False,3,0.456,0.113,-15.763,0.0334,0.915,0.0011,0.0959,0.327,108.536
+sup.arna,6WgYoOtcXnmyv4cK6RRtYv,24 / 7 / 365,Surfaces,False,45,0.743,0.647,-6.194,0.0338,0.26,1.61e-06,0.322,0.9,141.226
+sup.arna,5uXS5XfEJCNBRk09YXqtEY,blonde,Isaac Dunbar,False,0,0.589,0.513,-8.212,0.186,0.152,0.0,0.651,0.544,100.089
+sup.arna,7COXchtUOMd6uIT6HvmRaI,i'm so tired...,"Lauv, Troye Sivan",False,1,0.599,0.733,-7.058,0.203,0.176,0.0,0.242,0.534,102.211
+sup.arna,57tJJtDzZ8jt5AZDwQFhaZ,Would You,Pink Sweat$,False,0,0.71,0.19,-11.137,0.0401,0.697,0.0,0.0788,0.495,105.14
+sup.arna,18uwL0vNUanqZH0ro2QcOP,comethru,Jeremy Zucker,False,78,0.795,0.178,-11.991,0.0574,0.607,0.0,0.623,0.608,93.982
+sup.arna,5uWDUe75h2FHLZyMX9r5sp,Sunkissed,khai dreams,False,0,0.768,0.354,-9.484,0.0539,0.592,0.0,0.399,0.793,153.97
+sup.arna,0elXIl26ZrovBULLTrEGK6,Habits of My Heart,Jaymes Young,False,59,0.392,0.498,-7.63,0.117,0.665,0.000118,0.34,0.59,72.048
+sup.arna,7cflqPPi3zWfLFRRBTWeh6,talk is overrated,"Jeremy Zucker, blackbear",True,63,0.776,0.353,-8.317,0.0687,0.435,0.0,0.302,0.658,138.035
+sup.arna,3cNjgVBKTJ1SvKhunrCdVy,Please Don't Go,Joel Adams,False,69,0.513,0.768,-4.868,0.0587,0.0118,1.94e-05,0.294,0.235,84.264
+sup.arna,7jJH8F3PHlNvxfqEAAfFDl,I Choose You,Sara Bareilles,False,63,0.731,0.572,-7.889,0.0445,0.105,0.00012,0.133,0.947,154.038
+sup.arna,6lanRgr6wXibZr8KgzXxBl,A Thousand Years,Christina Perri,False,82,0.421,0.407,-7.445,0.0267,0.309,0.000961,0.11,0.161,139.028
+sup.arna,2nMeu6UenVvwUktBCpLMK9,Young And Beautiful,Lana Del Rey,False,84,0.324,0.416,-8.92,0.0368,0.262,3.69e-05,0.11,0.151,113.986
+sup.arna,0fioLzGM8ngbD1w6fMmm45,I'm Not The Only One,Sam Smith,False,0,0.453,0.496,-5.785,0.0453,0.554,2.65e-05,0.0772,0.501,80.994
+sup.arna,1PsMieVYFXrSeXMxuE2SbG,Must Have Been The Wind,Alec Benjamin,False,0,0.653,0.644,-6.204,0.0572,0.784,0.000205,0.166,0.363,88.976
+sup.arna,1mKXFLRA179hdOWQBwUk9e,Just Give Me a Reason (feat. Nate Ruess),"P!nk, Nate Ruess",False,83,0.778,0.547,-7.273,0.0489,0.346,0.000302,0.132,0.441,95.002
+sup.arna,6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,False,80,0.421,0.131,-18.435,0.0382,0.952,0.00453,0.109,0.12,137.446
+sup.arna,5ELRkzdzz0HvGpMDlfZHkV,Sign of the Times,Harry Styles,False,3,0.518,0.575,-4.616,0.0302,0.0259,0.0,0.109,0.209,120.019
+sup.arna,7oAraczbemGSNWqnbkU87R,Too Good At Goodbyes,Sam Smith,False,0,0.515,0.378,-8.264,0.065,0.618,0.0,0.172,0.536,91.883
+sup.arna,7DFNE7NO0raLIUbgzY2rzm,Let Her Go,Passenger,False,18,0.509,0.538,-7.335,0.0572,0.385,0.0,0.104,0.244,75.089
+sup.arna,2ZQyksYO4zzhyHNcueL0CP,Home,Phillip Phillips,False,0,0.592,0.792,-5.884,0.0335,0.0215,0.0,0.159,0.293,121.001
+sup.arna,6SKwQghsR8AISlxhcwyA9R,Marry You,Bruno Mars,False,78,0.621,0.82,-4.865,0.0367,0.332,0.0,0.104,0.452,144.905
+sup.arna,11bD1JtSjlIgKgZG2134DZ,Chasing Cars,Snow Patrol,False,13,0.563,0.592,-4.571,0.0276,0.209,5.08e-05,0.132,0.136,104.016
+sup.arna,13HVjjWUZFaWilh2QUJKsP,Let It Go,James Bay,False,71,0.546,0.311,-10.396,0.0288,0.818,1.65e-05,0.107,0.246,147.464
+sup.arna,1HNkqx9Ahdgi1Ixy2xkKkL,Photograph,Ed Sheeran,False,86,0.614,0.379,-10.48,0.0476,0.607,0.000464,0.0986,0.201,107.989
+sup.arna,4pGqFOfzvfe6avb9kbZicC,Sweater Weather,The Neighbourhood,False,61,0.695,0.615,-5.325,0.042,0.15,0.000212,0.0879,0.414,124.015
+sup.arna,2hKdd3qO7cWr2Jo0Bcs0MA,Drops of Jupiter (Tell Me),Train,False,79,0.481,0.638,-5.862,0.0276,0.153,0.0,0.154,0.497,79.064
+sup.arna,0nJW01T7XtvILxQgC5J7Wh,When I Was Your Man,Bruno Mars,False,88,0.612,0.28,-8.648,0.0434,0.932,0.0,0.088,0.387,72.795
+sup.arna,5kqIPrATaCc2LqxVWzQGbk,7 Years,Lukas Graham,False,81,0.765,0.473,-5.829,0.0514,0.287,0.0,0.391,0.34,119.992
+sup.arna,6L6ra9mTlyQPmh7zGw58y1,Life Of The Party,Shawn Mendes,False,0,0.662,0.612,-4.993,0.0311,0.0509,0.0,0.0948,0.177,113.95
+sup.arna,05pKAafT85jeeNhZ6kq7HT,I Won't Give Up,Jason Mraz,False,63,0.585,0.303,-10.058,0.0398,0.694,0.0,0.115,0.142,136.703
+sup.arna,4wCmqSrbyCgxEXROQE6vtV,Somebody That I Used To Know,"Gotye, Kimbra",False,77,0.864,0.495,-7.036,0.037,0.591,0.000133,0.0992,0.72,129.062
+sup.arna,0B5KeB25moPkcQUnbDvj3t,100 Years,Five For Fighting,False,51,0.643,0.569,-7.459,0.0276,0.544,2.17e-05,0.178,0.275,120.507
+sup.arna,1oBDaufG8Arkz3t52UbiQi,Skinny Love,Birdy,False,54,0.379,0.29,-8.485,0.051,0.952,0.00106,0.118,0.169,166.467
+sup.arna,4h0zU3O9R5xzuTmNO7dNDU,Lost Boy,Ruth B.,False,73,0.71,0.0565,-15.099,0.0534,0.965,0.0,0.0889,0.348,123.994
+sup.arna,0z9UVN8VBHJ9HdfYsOuuNf,Safe & Sound - from The Hunger Games Soundtrack,"Taylor Swift, The Civil Wars",False,65,0.471,0.3,-10.807,0.028,0.883,1.05e-05,0.0698,0.289,144.319
+sup.arna,53Pgsvu3qSYO2aXt5J2vcL,Lego House,Ed Sheeran,False,56,0.592,0.637,-8.48,0.0992,0.562,0.0,0.13,0.565,159.701
+sup.arna,3JvrhDOgAt6p7K8mDyZwRd,Riptide,Vance Joy,False,82,0.484,0.731,-6.694,0.0379,0.431,0.0,0.151,0.51,101.654
+sup.arna,4rMNgxEwGWoPHIUcvB5BrB,It Will Rain,Bruno Mars,False,62,0.574,0.824,-6.885,0.0463,0.359,0.0,0.0816,0.434,149.981
+sup.arna,39jXnbACjiaiTwwhsr5sY5,Too Much To Ask,Niall Horan,True,70,0.443,0.533,-6.548,0.0396,0.371,0.0,0.128,0.201,77.344
+sup.arna,7FFMDkCN3C9R62tXcH4MFU,cologne,Isaac Dunbar,False,32,0.39,0.513,-7.964,0.0667,0.456,2.88e-05,0.203,0.232,96.053
+sup.arna,00zqcuWmpRw9JxaLr9qe67,onion boy,Isaac Dunbar,False,56,0.764,0.438,-5.604,0.085,0.151,0.0,0.631,0.688,92.972
+sup.arna,3GRSqlALWISqLeNncZMbpX,Mean It,"Lauv, LANY",False,0,0.746,0.45,-8.543,0.0872,0.0407,0.0,0.172,0.336,95.998
+sup.arna,2jnsozkCG3nGV9tXeb3HUr,Lighter / Time,LAUNDRY DAY,False,35,0.744,0.322,-10.39,0.0367,0.743,0.00252,0.0748,0.563,105.055
+sup.arna,0zePbRMJ9sd7wsZRlbPQua,Hot Rod,Dayglow,False,9,0.707,0.767,-7.072,0.0323,0.0279,0.000295,0.169,0.832,139.985
+sup.arna,3yXlHDEx1BjRPp1bLuH8oW,You're The Reason - Acoustic Version,"Victorious Cast, Victoria Justice",False,28,0.385,0.408,-8.799,0.0529,0.621,0.0,0.126,0.218,184.495
+sup.arna,5MeUMSRreLHYLhw8ZTyqpk,Renee,SALES,False,65,0.924,0.386,-8.183,0.0548,0.755,0.00253,0.118,0.424,108.957
+sup.arna,3mTEYjm3kIm4YzJ5zxJZjs,Flares,The Script,False,58,0.348,0.351,-9.883,0.0344,0.408,0.0,0.055,0.0661,164.054
+sup.arna,4HBZA5flZLE435QTztThqH,Stuck with U (with Justin Bieber),"Ariana Grande, Justin Bieber",False,82,0.597,0.45,-6.658,0.0418,0.223,0.0,0.382,0.537,178.765
+sup.arna,0xZiz15tkiUxCTalU5hkRr,Sunshine & City Lights,Greyson Chance,False,46,0.692,0.522,-6.728,0.0462,0.689,0.0,0.154,0.341,130.946
+sup.arna,3sgf2a905hjZ81tXYytY6i,This Side of Paradise,Coyote Theory,False,0,0.278,0.662,-6.075,0.0295,0.386,1.14e-05,0.134,0.274,181.683
+sup.arna,0qUcpOOna3kkrwfqky85e1,Eyes Blue Like The Atlantic (feat. Subvrbs),"Sista Prod, Subvrbs",False,68,0.768,0.339,-13.169,0.777,0.608,0.000956,0.261,0.568,76.229
+sup.arna,7uoFMmxln0GPXQ0AcCBXRq,Snowman,Sia,False,77,0.716,0.512,-6.257,0.0331,0.483,0.0,0.0928,0.326,104.957
+sup.arna,64rL48E6xWMIXdpcFDEiB8,River Flows In You,Yiruma,False,0,0.315,0.22,-21.343,0.0514,0.987,0.943,0.0802,0.116,145.195
+sup.arna,0nRuVPZx2iA3KWR4xSzryl,TALK ME DOWN,Troye Sivan,False,50,0.362,0.781,-6.803,0.0741,0.151,0.000197,0.125,0.354,173.688
+sup.arna,7eRaK8LJUUgStuF29HpNsQ,Gone,Chiiild,False,0,0.775,0.438,-8.479,0.0598,0.654,0.0796,0.131,0.637,142.027
+sup.arna,46iMzIoVmlfuorWb6ixZKm,King - Acoustic,Years & Years,False,36,0.444,0.183,-8.759,0.0406,0.955,1.9e-06,0.107,0.294,90.638
+sup.arna,6wAFvJPpTZVirBKGZ4EnMW,Glitch,Taylor Swift,False,74,0.675,0.466,-9.738,0.201,0.361,0.0,0.11,0.347,140.864
+sup.arna,2IAR0DziHCjSu16gR4ihvy,Nothing,Bruno Major,False,13,0.555,0.27,-15.892,0.0884,0.931,0.536,0.103,0.274,139.691
+sup.arna,4ulnj9i9nQAcMRbWxBOXlh,a message to that girl i fell in love with.,bloody white,False,36,0.373,0.0293,-21.811,0.0396,0.942,1.83e-05,0.131,0.15,140.875
+o035tufj1j2to59df208ozh5k,0GGHxdy1mw6OcS2dVAH0es,The Sky's Awake,Drivotra,False,68,0.162,0.63,-21.441,0.0662,0.000333,0.989,0.384,0.0232,128.04
+o035tufj1j2to59df208ozh5k,2QtHxdxJ5Dc2eVHEfPA079,Cozy Thunder And Rain - Seamless,Drip-Drop,False,69,0.26,0.87,-22.09,0.335,0.00433,0.959,0.519,0.0394,63.73
+o035tufj1j2to59df208ozh5k,1gWCfhUtzEtOkWS5lM6zca,Sonido Dormido,Dormir Dan,False,67,0.122,0.448,-25.112,0.0871,0.00158,0.906,0.483,0.0391,97.48
+o035tufj1j2to59df208ozh5k,6sZVHMKQ7lf57eTlgby2WL,Distant Storm,Skyyy,False,64,0.24,0.394,-24.248,0.101,0.0266,0.822,0.355,0.0356,61.023
+o035tufj1j2to59df208ozh5k,767C8s4KVShgz4r8hqJAd0,Luscious Rain,Harmonious Nature,False,66,0.197,0.972,-16.067,0.0934,5.52e-06,0.97,0.355,0.0222,125.529
+o035tufj1j2to59df208ozh5k,0MACB4R2mVmzfoNDJlgGeI,Tumult Weather,Lunacy,False,64,0.0783,0.921,-21.387,0.0544,0.0508,0.916,0.333,0.0244,173.967
+o035tufj1j2to59df208ozh5k,0bXYBIzlncmj0LwOd3J5wn,Rain On The Porch,Miraflor,False,65,0.209,0.975,-24.72,0.0638,0.399,0.882,0.941,0.0174,83.862
+o035tufj1j2to59df208ozh5k,1SVyDxMo3VtdWz1fzegvDy,Graue Wolken,BLITZ,False,65,0.0572,0.678,-23.838,0.0857,0.000144,0.922,0.8,0.0264,68.88
+o035tufj1j2to59df208ozh5k,1fK6fnY1WSGzInlketXt6D,Costa Tormenta,El Tiempo Central,False,61,0.0767,0.772,-19.275,0.0637,0.0029,0.961,0.92,0.00475,82.935
+o035tufj1j2to59df208ozh5k,4JU9FYKj4K1eaey9SazCKE,Storm Away,Brontology,False,66,0.0622,0.637,-21.998,0.065,0.0263,0.146,0.874,0.0238,72.9
+o035tufj1j2to59df208ozh5k,0m2TR5Z8tZxhBT00aNE3iU,Stormy Nights,Chō,False,63,0.153,0.972,-24.985,0.0554,0.116,0.967,0.686,0.00825,103.03
+o035tufj1j2to59df208ozh5k,12YwouliX4zdxGoI9jArlO,Atmosphère Nord,Thibaut Lozé,False,59,0.235,0.647,-23.065,0.0733,0.074,0.858,0.402,0.11,61.624
+o035tufj1j2to59df208ozh5k,5inqtzm0t2SrR6uMwWXUJp,Stormy Evening,Taranis,False,60,0.119,0.934,-22.968,0.056,0.00116,0.864,0.748,0.0208,149.335
+o035tufj1j2to59df208ozh5k,3l30IZUBWUfh3MGvCaGFrv,Acidity Rain,Vanessa Storm,False,58,0.113,0.593,-24.792,0.0587,0.0622,0.694,0.463,0.0374,93.914
+o035tufj1j2to59df208ozh5k,6suFVz8lztiEwk7WFcM1TN,Storm From The North,Stormie,False,59,0.208,0.54,-28.386,0.0557,0.00287,0.849,0.527,0.0392,59.587
+o035tufj1j2to59df208ozh5k,0CYwZoze1eTVaYFZTMu0EV,Greek Rain and Thunder,Rain Inc,False,60,0.178,0.998,-18.55,0.0593,0.00784,0.741,0.761,1e-05,88.451
+o035tufj1j2to59df208ozh5k,4D1voq8tKTsgOloyHpjiaY,Beyond Storm,Salvo,False,63,0.0781,0.86,-19.798,0.0593,0.063,0.986,0.709,0.00484,170.265
+o035tufj1j2to59df208ozh5k,0j8BAcT3HQ8DfrTXqEIlZV,Hard Nature Rain With Thunder,We Stay Inside,False,55,0.168,0.875,-24.762,0.124,0.0387,0.458,0.472,0.0107,119.677
+o035tufj1j2to59df208ozh5k,4FFFs4A3Xi3AZxo3VDsnht,Desert Storm,Empyrean,False,58,0.15,0.958,-20.049,0.071,0.000802,0.953,0.671,0.0239,78.618
+o035tufj1j2to59df208ozh5k,1DNAhPyIw2BYonJ8BCmHQP,May Storm,Sounds Caused By Lightning,False,63,0.157,0.563,-16.904,0.0632,6.7e-05,0.981,0.499,0.00389,86.796
+o035tufj1j2to59df208ozh5k,0zWZNCX6i3FO19G7gxMoP4,Nature Collection,HD Rain & Water,False,62,0.186,0.382,-25.823,0.0801,0.000103,0.86,0.542,0.0601,99.872
+o035tufj1j2to59df208ozh5k,3zTYozWxO2br2ZpjUMp9hm,Dunder,Indra,False,58,0.166,0.781,-19.379,0.0792,4.19e-06,0.995,0.417,0.0212,86.147
+o035tufj1j2to59df208ozh5k,66PaJAfv8IGEjBj0cggYnZ,Thunder In Motion,Weathererse,False,65,0.192,0.00155,-19.707,0.353,0.00212,0.847,0.619,0.0262,77.998
+o035tufj1j2to59df208ozh5k,1Our3nKwfAPgzhjEDj2Wyp,Thriftless Thunder,Amida Nature Sounds,False,58,0.159,0.639,-26.242,0.0516,0.0256,0.893,0.48,0.0242,76.257
+o035tufj1j2to59df208ozh5k,2cFt3kvr1SSuBnwEcdaXm3,Gentle Rain And Thunder,Nature Vibrations,False,59,0.0652,0.923,-21.285,0.0665,3.57e-05,0.936,0.415,0.0103,75.15
+o035tufj1j2to59df208ozh5k,0T4xlWzMyjoMW3GmiVzG07,Black Bolt,Haruna Fields,False,58,0.166,0.814,-25.288,0.0655,0.235,0.952,0.382,0.0223,112.814
+o035tufj1j2to59df208ozh5k,0SUfn82ZIm9n0CEkWzBXH0,Tormenta de lluvia de la selva,Las Vientas,False,56,0.0843,0.0537,-18.398,0.0586,4.85e-05,0.881,0.319,0.0247,86.926
+o035tufj1j2to59df208ozh5k,1CEaySVOx18mttscveNNeJ,Gentle Storm,The Forest Escape,False,59,0.158,0.416,-28.227,0.0783,0.00378,0.846,0.726,0.0343,108.751
+o035tufj1j2to59df208ozh5k,32zxBVySWOXGscXkoYyfo3,Sonic Thunder,Isamu,False,63,0.19,0.969,-19.798,0.0534,0.215,0.974,0.137,0.024,78.062
+o035tufj1j2to59df208ozh5k,5FXzWl2vDBHYqtzb61k0ij,Knights Street Storm,Stormie,False,58,0.165,0.763,-29.397,0.0623,0.795,0.973,0.124,0.0223,129.437
+o035tufj1j2to59df208ozh5k,6pWat1ynyacwfE9gmyqw3B,Take Cover,Oluja,False,62,0.0732,0.739,-26.256,0.0558,0.0539,0.95,0.588,0.0268,79.362
+o035tufj1j2to59df208ozh5k,3DcBNBQXztYsrGgAqUGSJj,Countryside Storm,April Shower,False,58,0.0656,0.931,-21.382,0.0561,0.00541,0.988,0.883,0.000641,77.975
+o035tufj1j2to59df208ozh5k,4egCKRMYciGmRMM4ze2Dkd,"Big Storm, Rain and Close Lightnings",Vedhamn Sounds,False,58,0.134,0.962,-14.626,0.085,0.016,0.952,0.342,0.0194,141.947
+o035tufj1j2to59df208ozh5k,4scLidW4WSD9JbaRc9CspV,Drizzling Down,Liquid Dance,False,58,0.167,0.423,-25.799,0.111,0.000296,0.836,0.475,0.0389,115.871
+o035tufj1j2to59df208ozh5k,00ChJJWChWCHfHDOnsnWvv,Drops And Thunder,Amida Nature Sounds,False,58,0.161,0.736,-24.697,0.0759,0.000554,0.944,0.143,0.0151,111.754
+o035tufj1j2to59df208ozh5k,3nQbThFvoVnXOS0pHXcnTY,Pure Air & Water,Stormour,False,58,0.0979,0.475,-25.738,0.0837,0.000388,0.951,0.4,0.0443,86.823
+o035tufj1j2to59df208ozh5k,17T1PhUwVor4Q4ZdqhkVL7,Lightning,Polar Night,False,62,0.0707,0.816,-23.877,0.0751,0.000758,0.878,0.486,0.0219,177.026
+o035tufj1j2to59df208ozh5k,4g8Uwb4iR9NVsQA4zpixt5,Tonnerre Tropical,Christophe Frédérique,False,63,0.141,0.702,-26.076,0.0845,0.000205,0.814,0.66,0.0303,102.629
+o035tufj1j2to59df208ozh5k,7MhZHbrf3xvUdUBO0NCWYJ,Perfect Rain,Eva Poured,False,59,0.164,0.398,-25.963,0.0802,0.000101,0.926,0.748,0.0564,89.485
+o035tufj1j2to59df208ozh5k,548O42lxACjjRQRWe2p3sR,Walnut Tree Shelter With Distant Thunder,In Natura,False,55,0.109,0.999,-13.919,0.0611,0.646,0.907,0.963,1e-05,84.486
+o035tufj1j2to59df208ozh5k,0TyW7t2bweA1BLsIOc2iah,Big Thunder,"Sleep, Study, Focus",False,58,0.068,0.562,-19.857,0.113,6.53e-05,0.882,0.257,0.0398,77.712
+o035tufj1j2to59df208ozh5k,5jD3UfznmqTdBvWOkKKPKa,Storm Dreaming,Haruna Fields,False,63,0.0636,0.553,-29.364,0.0592,0.117,0.882,0.224,0.0307,192.041
+o035tufj1j2to59df208ozh5k,7r51Cb3FGb4hbr8visjjVr,"Forte pluie, tonnerre profond",Effectum,False,59,0.141,0.299,-18.785,0.0538,0.000352,0.824,0.263,0.0346,138.555
+o035tufj1j2to59df208ozh5k,0xBJh1FWXbt1KyJbVxVYLp,Åskväder,Regnmannen,False,58,0.159,0.921,-13.69,0.0762,0.153,0.999,0.378,1e-05,111.106
+o035tufj1j2to59df208ozh5k,58EtUoSNjEOnomIEc5daGp,Summer Storms,Isamu,False,62,0.132,0.628,-28.775,0.0552,0.427,0.964,0.503,0.00821,100.794
+o035tufj1j2to59df208ozh5k,3g8n6JHQDGGjrE27lAtpvn,Watch The Storm,Distantic,False,69,0.158,0.542,-24.552,0.0805,0.000453,0.941,0.391,0.0352,131.109
+o035tufj1j2to59df208ozh5k,4twYB7FXbZMS5a0e6GN5Tc,Healing Storm,Adam Storme,False,58,0.142,0.99,-21.333,0.0667,0.198,0.974,0.952,1e-05,138.806
+o035tufj1j2to59df208ozh5k,3rsXIGQjD96knIRVdayTBe,Light Rain and Thunder,Mindful Measures,False,62,0.0547,0.617,-25.149,0.405,0.00596,0.974,0.906,1e-05,57.167
+o035tufj1j2to59df208ozh5k,5sIj5SGyT0k2CsZYGoue5n,Tormenta De Lluvia,Siente El Clima,False,58,0.212,0.454,-23.225,0.0756,8.16e-06,0.994,0.214,0.0358,97.216
+o035tufj1j2to59df208ozh5k,3laBFjOEcZRgmlv2StZlDX,Meditation Thunder,Thundertalk,False,61,0.185,0.841,-22.828,0.0569,0.0345,0.863,0.787,0.0202,88.729
+o035tufj1j2to59df208ozh5k,7bpmnFWsi7XNV92QVJHzTL,Explora La Tormenta,Área De Baja Presión,False,57,0.142,0.692,-24.972,0.103,0.000281,0.0201,0.775,0.0352,88.344
+o035tufj1j2to59df208ozh5k,2UV2qxZcBoinEC0Ko6C93X,Light Outdoors Rain With Thunder,Nature Calm,False,59,0.089,0.81,-24.036,0.0489,0.173,0.748,0.394,0.0283,69.822
+o035tufj1j2to59df208ozh5k,4YPTI6iWXVTGIzDLKvInM0,Voltage Dreams,Zinan,False,70,0.155,0.629,-27.102,0.069,0.00195,0.00174,0.404,0.0348,106.743
+o035tufj1j2to59df208ozh5k,04gDwncwCgqRuVFyZsrQn5,Rain White Noise,Sound FX of Nature,False,63,0.214,0.555,-26.795,0.0589,0.0275,0.866,0.743,0.0361,97.864
+o035tufj1j2to59df208ozh5k,6pwYNA6ASZQ2Q0rMG8yVO0,Thunder Run,Adam Storme,False,58,0.117,0.723,-20.873,0.092,0.000446,0.947,0.95,0.0124,71.258
+o035tufj1j2to59df208ozh5k,7fESGsifBt7AydWSYYfn5e,Omnius Storm,humidum,False,62,0.174,0.779,-24.874,0.0526,0.000449,0.936,0.431,0.0272,91.122
+o035tufj1j2to59df208ozh5k,7bnY0z3DPNHk3gfhLvAuvx,Light Up The Sky,BLITZ,False,58,0.0891,0.976,-22.189,0.0674,0.242,0.945,0.919,1e-05,86.991
+o035tufj1j2to59df208ozh5k,1pZy1JDOfBmIsbGlThu20Y,Drops & Thunders,ASMRainy,False,53,0.226,0.224,-35.48,0.172,0.249,0.958,0.465,0.286,68.626
+o035tufj1j2to59df208ozh5k,0pPMBiWpbShtUwpjuVsXs9,Infinite Rain Clouds,Sleep Waves,False,59,0.191,0.363,-21.574,0.0712,0.0172,0.906,0.404,0.0129,62.131
+o035tufj1j2to59df208ozh5k,3dHVp4tIryXs62JYtcINhc,Electric Drops,Zinan,False,66,0.161,0.974,-19.947,0.106,0.00029,0.988,0.901,0.00863,129.212
+o035tufj1j2to59df208ozh5k,5hcIHaO2Vy6NmLC704mM8b,Gråa Moln,Indra,False,62,0.0563,0.629,-20.154,0.0746,1.03e-05,0.974,0.576,0.03,59.811
+o035tufj1j2to59df208ozh5k,7IqerL7wjXoii1b0xDWbUy,Distant Thunder,stereo storm,False,61,0.16,0.467,-21.563,0.0627,0.000176,0.438,0.714,0.0285,129.427
+o035tufj1j2to59df208ozh5k,4PHRttQK5SWtPDBVEPnbhu,Under The Clouds,High Voltage,False,64,0.107,0.691,-21.342,0.124,0.0667,0.945,0.427,0.042,86.95
+o035tufj1j2to59df208ozh5k,31GNsedPV2m9qB1D2LEdIB,Golden Thunderstorm,NC2 LABORATORIES,False,60,0.2,0.838,-22.381,0.0805,0.449,0.805,0.385,0.0338,65.852
+o035tufj1j2to59df208ozh5k,6OoxcsTg73NQ7gGc163hsz,Storm In Manchester,April Shower,False,61,0.145,0.419,-30.983,0.0569,0.000325,0.344,0.383,0.0572,149.663
+o035tufj1j2to59df208ozh5k,6U89RZ2OKLjoKaBm0GHJyd,Goddess Of Thunder,Creatress,False,59,0.163,0.996,-15.794,0.0663,0.554,0.917,0.4,0.00876,111.291
+o035tufj1j2to59df208ozh5k,16HCJtRKmMbKKflHHQ7oJZ,Night Thunder,David Struck,False,58,0.14,0.99,-18.064,0.185,0.000306,0.982,0.404,0.0138,77.965
+o035tufj1j2to59df208ozh5k,5TexsAXp4ms15voj66r02X,Thunder Nights,Skyyy,False,58,0.207,0.782,-19.26,0.0855,0.0132,0.644,0.222,0.0446,106.82
+o035tufj1j2to59df208ozh5k,5QrXyHPlJOtT8quR4URGa7,Sky Thunder,Celestial Noise,False,58,0.147,0.848,-21.693,0.0697,0.00282,0.386,0.362,0.0239,83.254
+o035tufj1j2to59df208ozh5k,3ZNar8jvlDBoU2XoAFFSyO,Don't Be Afraid,Attono,False,62,0.0974,0.74,-25.737,0.061,3.66e-05,8.59e-06,0.558,0.0342,175.388
+o035tufj1j2to59df208ozh5k,5iZmYfTncJKyX97m4cGZ8p,Tormenta Del Bosque,Tormenta Jamaicana,False,57,0.165,0.934,-23.699,0.105,0.00762,0.973,0.875,0.00424,115.542
+o035tufj1j2to59df208ozh5k,2pDK60CgXRz5uwKMI74sKx,Thunder Rain,Taranis,False,58,0.0792,0.928,-22.245,0.0688,0.00502,0.897,0.978,0.0154,170.498
+o035tufj1j2to59df208ozh5k,3du4x4mjmzMZNXu5CFNkIE,Stormy Weather,Rain Hive,False,59,0.134,0.94,-20.534,0.0648,0.00232,0.511,0.778,0.00983,101.126
+o035tufj1j2to59df208ozh5k,0ZRTBESw4BjX22iOcU3kRx,Piogga,L'acqua Cade,False,62,0.0765,0.86,-19.085,0.0546,0.000115,0.936,0.324,0.0206,171.805
+o035tufj1j2to59df208ozh5k,5hf4IrzBngV1tdtDKDzt7a,Wet Weather,Electricality,False,64,0.136,0.453,-19.117,0.529,0.016,0.981,0.885,1e-05,95.44
+o035tufj1j2to59df208ozh5k,0Nx9Okn6DBTVAKwpvxWago,Cloudburst,Myrs,False,60,0.14,0.553,-27.971,0.0702,0.00944,0.337,0.12,0.0326,140.262
+o035tufj1j2to59df208ozh5k,2wXuw7beVHAyCdOhIqvmgZ,La tempête,Le Tonnerre,False,56,0.0752,0.907,-27.11,0.0902,0.0887,0.968,0.386,0.0112,173.308
+o035tufj1j2to59df208ozh5k,5PEATiUtV0CSiIczAYLSUx,Soothing Rainstorm,Selectrodynamic,False,62,0.167,0.365,-21.465,0.0581,0.000113,0.959,0.442,0.0218,79.946
+o035tufj1j2to59df208ozh5k,0iXS67ozXexCqznTYzSQEv,Atmospheric Storm,Temporale X,False,62,0.0922,0.377,-22.81,0.0958,4.39e-05,0.993,0.691,0.0223,89.078
+o035tufj1j2to59df208ozh5k,3W1bHskcJ8bcJdwpD2HCBE,Thunder And Storm,Stormie,False,57,0.222,0.66,-24.583,0.121,0.000435,0.969,0.118,0.033,92.991
+o035tufj1j2to59df208ozh5k,48jzJCr5iHi1aMuhTKlXP0,Dark skies,LWD Rain,False,65,0.15,0.667,-23.215,0.0987,0.0168,0.859,0.478,0.0322,106.449
+o035tufj1j2to59df208ozh5k,3yIzotqlArHD8rDU4uGLZl,Stormy Nights And Days,Empyrean,False,63,0.0814,0.611,-25.657,0.07,0.00134,0.00157,0.455,0.0221,85.317
+o035tufj1j2to59df208ozh5k,400VRhKLp9MZhyJgeAN6OA,Rain Morning,Natural Dream Makers,False,59,0.19,0.69,-24.35,0.0629,0.00393,0.943,0.377,0.0223,86.059
+o035tufj1j2to59df208ozh5k,5tu0yyz3KaVGWSxs6RchPA,Storms Eye,R. Guru,False,61,0.059,0.619,-26.684,0.0757,0.000103,0.933,0.397,0.0297,68.917
+o035tufj1j2to59df208ozh5k,7D9DQF0eBc7E3OLBNXaKIu,Das Unwetter,BLITZ,False,58,0.199,0.787,-25.338,0.0572,0.00476,0.778,0.538,0.0302,52.984
+o035tufj1j2to59df208ozh5k,2Ei6wXJdIcrKxIQ11v8OhW,It's Gonna Rain Tonight,Attono,False,60,0.271,0.998,-21.69,0.0508,0.0737,0.961,0.815,0.00571,58.159
+o035tufj1j2to59df208ozh5k,44REx0lmsZcpfmkKrMvDp0,Cozy Rain,Ray N.Y,False,59,0.0779,0.982,-16.86,0.0653,0.214,0.996,0.28,0.00658,83.217
+o035tufj1j2to59df208ozh5k,29cwoaUpoe1zQdi69IEAym,Distant Thunder and Smooth Rain,Relaxing Nature Recordings,False,62,0.0616,0.0435,-19.323,0.384,0.00278,0.774,0.416,0.0077,76.538
+o035tufj1j2to59df208ozh5k,3rxnLHNAstvd01Yw7rTdkX,Sky Is Rumbling,Calm Storm,False,61,0.207,0.696,-20.473,0.073,5.23e-06,0.96,0.392,0.0171,104.487
+o035tufj1j2to59df208ozh5k,0QRdzBl9GDhegqN22xI0lz,Eternal Storm,BLITZ,False,60,0.151,0.886,-23.261,0.0636,0.000151,0.869,0.346,0.0187,106.356
+o035tufj1j2to59df208ozh5k,4e0g5gfNw19IVhwSgPDsHc,Thunderclaps,WeatherBug,False,61,0.0593,0.851,-20.334,0.0759,0.000395,0.989,0.413,0.0285,49.529
+o035tufj1j2to59df208ozh5k,1WvCx016HUVL6opRQgQRmM,Heavy Storm,Tempest,False,59,0.171,0.496,-29.777,0.0907,4.28e-05,0.92,0.389,0.0386,118.452
+o035tufj1j2to59df208ozh5k,3ant2EoVsF6aBczcOBw1D9,Åska,Naturen,False,55,0.0916,0.611,-18.944,0.124,0.000403,0.748,0.666,0.185,69.708
+o035tufj1j2to59df208ozh5k,56PGNYfo42PMGLxkHEDnzE,Rain Downpour,Unhappy Campers,False,56,0.212,0.991,-10.14,0.0879,0.00266,0.951,0.399,1e-05,63.498
+o035tufj1j2to59df208ozh5k,5Bwc0m1mEGgtMOTtJell0T,Nuage Froid,Elise Édouard,False,57,0.194,0.691,-23.188,0.105,0.00833,0.918,0.382,0.0351,79.518
+o035tufj1j2to59df208ozh5k,6x8Ht8WoIxNNi3dhZn2skp,Stormy Winds,Lumo,False,58,0.119,0.641,-28.755,0.0503,0.00346,0.957,0.357,0.0282,82.813
+o035tufj1j2to59df208ozh5k,4ikdQ1Zr8sWHXSl25bhFuq,Misty Rain & Thunder,Mystery Rain & Thunder Rec,False,60,0.123,0.93,-19.592,0.0683,0.00033,0.834,0.448,0.0126,94.619
+o035tufj1j2to59df208ozh5k,4FhNfshbuUPgY5ckqdgvYG,Light Thunder,Zhock Wave,False,61,0.151,0.698,-21.274,0.0549,0.199,0.964,0.354,0.0251,74.846
+o035tufj1j2to59df208ozh5k,7AA6L1DQd4aOg5CHxhhUMx,Natural Sounds Of Nature,Harmless Harmonics,False,61,0.191,0.455,-25.649,0.0954,0.000426,0.92,0.5,0.038,106.107
+o035tufj1j2to59df208ozh5k,0DhLvC2rnUUEffwwHYoCt6,Storm During Night,Atmospheric Force,False,60,0.142,0.537,-25.143,0.101,9.66e-06,0.813,0.142,0.0902,140.249
+o035tufj1j2to59df208ozh5k,7xZnOLMQY1yOWMZyB5Es6G,Feel The Weather,Thunderive,False,61,0.058,0.996,-17.803,0.0903,0.000896,0.977,0.554,0.00818,62.284
+o035tufj1j2to59df208ozh5k,0ze6xlXaOsf4Qq1k6WPA6S,Lluvia y tormenta,Torm Mentas,False,60,0.16,0.431,-25.292,0.0831,0.0021,0.9,0.447,0.0359,110.915
+o035tufj1j2to59df208ozh5k,2ovzsu0useW9oyDCoDPxKe,Stormy Rain,DreamDrops,False,59,0.105,0.998,-20.713,0.087,0.0136,0.504,0.372,0.00207,91.841
+o035tufj1j2to59df208ozh5k,03gfve0EKLdBoQCGZDkbet,Calm Thunder,Nature's Noise,False,61,0.0805,0.226,-19.451,0.0572,0.000419,0.967,0.619,0.0335,85.303
+o035tufj1j2to59df208ozh5k,3UGkG7AQidJX6tZs61sO15,Longing for rain,Zuni,False,61,0.186,0.918,-19.888,0.059,0.461,0.95,0.345,0.02,109.014
+o035tufj1j2to59df208ozh5k,1lkHaXezlWJshqGMM4guvZ,Lightning And Thunder,Attono,False,61,0.201,0.72,-24.387,0.0618,0.00436,0.872,0.383,0.025,107.135
+o035tufj1j2to59df208ozh5k,4QMNrMy6bj0jWJtJO4GUfj,Sleep Under Cover,Drivotra,False,60,0.0683,0.561,-29.603,0.0582,0.000973,0.959,0.482,0.0323,51.904
+o035tufj1j2to59df208ozh5k,4JLJG5dgymA545MS4u95bZ,Storming For Days,Salvo,False,59,0.151,0.788,-25.0,0.0696,0.0018,0.909,0.383,0.0234,135.907
+o035tufj1j2to59df208ozh5k,6xIPSPcP6gbIDlqQeWI8dO,Rain Shower & Thunder,Meteorologist,False,58,0.173,0.988,-18.138,0.0632,0.0253,0.967,0.579,0.0185,81.565
+o035tufj1j2to59df208ozh5k,7qRF1aoqAOOhb58IHhtkt6,Wet Rain Season,FX waves,False,60,0.076,0.897,-21.396,0.0587,0.0144,0.929,0.606,0.026,51.892
+o035tufj1j2to59df208ozh5k,1JDovYXYHCeqP38zTy1BsM,Focus Bad Weather,Day & Night Rain,False,61,0.141,0.864,-19.187,0.0642,0.002,0.749,0.866,0.00528,83.82
+o035tufj1j2to59df208ozh5k,5cZTwGEeGbZhObrDxCWL4y,Bajo Refugio Tormenta,Mia Paleta,False,55,0.0719,0.927,-19.46,0.0668,1.66e-05,0.759,0.51,0.0225,79.621
+o035tufj1j2to59df208ozh5k,54gd3cuzXOLPgmj1BLIHmB,Soft Clappering Rain With Distant Storm,Livia Michaels,False,58,0.134,0.668,-23.875,0.0566,0.0759,0.855,0.301,0.0302,87.783
+o035tufj1j2to59df208ozh5k,5aHIVNM8mZbJQgkTCEbHLu,Rumbling,Oluja,False,60,0.189,0.628,-27.797,0.0657,8.43e-05,0.415,0.388,0.0319,86.306
+o035tufj1j2to59df208ozh5k,24lHr1XxXOxfaHkF7ZR5Zc,Rain Coming Down,Adam Storme,False,59,0.209,0.478,-30.603,0.0639,0.000179,0.91,0.394,0.0343,90.688
+o035tufj1j2to59df208ozh5k,0ZjxV4mHm76UnZS2ZDK8qW,Thunder And Lightning,Thunder Dome,False,59,0.121,0.968,-19.09,0.0944,0.00332,0.982,0.48,0.00796,147.488
+o035tufj1j2to59df208ozh5k,68S9h5bDYVNinuyGRz1rLv,Super Soft Rain with Super Soft Thunder,The Natural Healing,False,59,0.0804,0.624,-25.236,0.0555,0.0825,0.88,0.402,0.0306,170.408
+o035tufj1j2to59df208ozh5k,13yZWnQQjc3VrHXh16ujky,Storm Is Building Up,Weather Man,False,60,0.107,0.346,-28.767,0.106,0.00323,0.976,0.22,0.119,154.348
+o035tufj1j2to59df208ozh5k,3GIlON6gSvqaNJYm87uWsM,A Rainy Day At The Park,Waters Of Deluge,False,59,0.158,0.721,-26.002,0.0538,0.000743,0.897,0.574,0.0283,99.349
+o035tufj1j2to59df208ozh5k,4H2UoVHDlQe6t14ulSYW6y,Out In the Wild,Rainy Forecast,False,56,0.185,0.465,-25.618,0.0808,0.000418,0.962,0.481,0.0486,100.669
+o035tufj1j2to59df208ozh5k,0EdfDTRdy5nMuy89Eiw4xp,Relaxing Forest Clappering,Birds & Bees etc.,False,56,0.185,0.743,-23.905,0.109,0.00839,0.983,0.36,0.0206,114.56
+o035tufj1j2to59df208ozh5k,2ZNecLM1gZtPoCIUHNq3CF,"Soft Rain, Thunder",Climate Hive,False,53,0.183,0.882,-25.872,0.0712,0.146,0.914,0.293,0.0206,123.098
+o035tufj1j2to59df208ozh5k,6O3kiSZxwYOQROxfujuWPJ,Stormy Thunder,Odd Weather,False,59,0.163,0.936,-21.425,0.0611,0.0861,0.928,0.591,0.00912,67.252
+o035tufj1j2to59df208ozh5k,4X5XEleEIET9w0rqmdhMoK,Thunder & Pouring Rain,ABC Tonnerre,False,54,0.207,0.73,-17.295,0.0617,6.83e-05,0.987,0.379,0.00282,96.966
+o035tufj1j2to59df208ozh5k,3XyCMBq2Q11RBeW3n6gRw4,Good Night Nature Rain,Epic Nature,False,59,0.196,0.728,-23.816,0.112,0.00973,0.986,0.382,0.0205,116.078
+o035tufj1j2to59df208ozh5k,75yganfLLS5N0oeLFt9gW4,Fall asleep Storm,Rain Hive,False,54,0.103,0.41,-19.315,0.0923,0.0169,0.958,0.795,1e-05,92.968
+o035tufj1j2to59df208ozh5k,5qRtu0bVNStywBkbWlF4TD,Extra Wide Rain - extra,The Noisy Outdoors,False,59,0.167,0.633,-23.77,0.105,0.00482,0.975,0.394,0.0222,116.279
+o035tufj1j2to59df208ozh5k,3VcUGM9IYstqpptFCokPI4,Relaxing Thunderstorm,The Forest Escape,False,59,0.152,0.998,-16.244,0.142,0.133,0.858,0.651,0.00552,106.197
+o035tufj1j2to59df208ozh5k,1G0eLrad9sztISHG75a5cv,It's gonna rain all night,Indra,False,58,0.109,0.863,-24.296,0.0591,0.00849,0.985,0.382,0.0212,93.281
+o035tufj1j2to59df208ozh5k,5UCoKMFGx2aKJffRxMv0Wd,Storms,Thunder Dome,False,58,0.0955,0.809,-19.72,0.0564,0.0244,0.733,0.663,0.0218,72.474
+o035tufj1j2to59df208ozh5k,62FbvSIIiSQ8nCClTv5JTr,Muffled Thunder,Mother Nature Recordings,False,57,0.176,0.666,-24.115,0.0535,0.00627,0.955,0.508,0.0381,81.426
+o035tufj1j2to59df208ozh5k,1OMb4pb98GL1SJBJqM3Mq3,Storm Through The Night,Skyyy,False,59,0.232,0.587,-29.416,0.11,0.0167,0.947,0.0928,0.118,119.349
+o035tufj1j2to59df208ozh5k,7pCpJJEnBi4ANgiUG3Ha3u,Rainy Thunder Night,Weather Watcher,False,55,0.149,0.961,-22.268,0.0565,0.0892,0.971,0.557,0.00264,82.054
+o035tufj1j2to59df208ozh5k,3D97oOZdpxItVqFoAwBfYC,Thunderstorm In the Forest,Weather Watcher,False,58,0.165,0.55,-20.38,0.0772,0.0423,0.706,0.415,0.00922,115.406
+o035tufj1j2to59df208ozh5k,5bcHiKNME9lrvd6rUJ5zxT,Soft Forest Clappering,Birds & Bees etc.,False,59,0.094,0.532,-23.832,0.0759,0.00581,0.986,0.364,0.0285,82.397
+o035tufj1j2to59df208ozh5k,2bI4BdFdtdDBM2q3xB3IZR,Dark Storm,Taranis,False,58,0.146,0.544,-29.533,0.0553,0.0025,0.659,0.388,0.0318,98.894
+o035tufj1j2to59df208ozh5k,1ebeEq5lUHhIPwvFeNr6gi,"Lluvia, trueno, viento",Las Vientas,False,58,0.163,0.996,-17.792,0.0776,0.000865,0.966,0.912,0.0097,128.993
+o035tufj1j2to59df208ozh5k,3Gp2W5Po1dSh0oMTxA8LGX,"Calm Rain, Thunder",Climate Hive,False,59,0.157,0.641,-24.415,0.0557,0.00629,0.931,0.667,0.0375,89.639
+o035tufj1j2to59df208ozh5k,6E9ACxbryalj3PnCDhZxtO,Back Alley Rainstorm,Water Effects Center,False,57,0.0656,0.684,-22.488,0.0779,0.00961,0.956,0.472,0.00858,77.364
+o035tufj1j2to59df208ozh5k,5Z5fhku3u9oxVV6KTPRsPZ,Rainstorm,Lavinium,False,58,0.182,0.257,-19.399,0.0517,3.44e-06,0.869,0.308,0.0396,68.315
+o035tufj1j2to59df208ozh5k,06l4p419P3L42mTUa5KJw4,Deep Rain Thunder,VDWW,False,58,0.164,0.717,-20.783,0.0579,2.18e-05,0.64,0.685,0.0284,71.841
+o035tufj1j2to59df208ozh5k,1DNHRgD48WyrkKXHwHd6kS,Thunderstorm In The City,ABC Tonnerre,False,52,0.0889,0.757,-22.626,0.0856,0.0139,0.94,0.531,0.00991,88.098
+o035tufj1j2to59df208ozh5k,5JShRNmoqXwGynwBDpvMP3,Intense Rain & Thunder,Meteorologist,False,52,0.219,0.936,-18.177,0.0591,0.0214,0.898,0.353,1e-05,99.119
+o035tufj1j2to59df208ozh5k,3Cs5FEzThXXBVwavjW2DaX,Light Rain - Distant Thunder,Weather Pass,False,57,0.106,0.686,-21.614,0.0564,0.201,0.969,0.332,0.0262,92.653
+o035tufj1j2to59df208ozh5k,0Ai3MSbhpAG9Z8skVy0PhW,Tormenta,Tromentas Naturales,False,58,0.176,0.362,-22.777,0.0953,7.23e-05,0.995,0.677,0.0257,137.935
+o035tufj1j2to59df208ozh5k,2l1jBfsyUWsD0NmHMEWtyd,Rainy Misty Skies,Weather Factory,False,53,0.146,0.863,-23.138,0.0532,0.046,0.955,0.241,0.0233,78.034
+o035tufj1j2to59df208ozh5k,7lxs4cWZvIUrjA1iSWpCot,Light Rain Thunder,VDWW,False,57,0.0831,0.879,-22.131,0.0621,0.00138,0.922,0.696,0.0164,71.864
+o035tufj1j2to59df208ozh5k,3dUYKGGxMCT5vFFp2uIuNB,Lluvia intensa y truenos,Exovis,False,58,0.159,0.858,-19.577,0.0756,0.000377,0.905,0.913,0.0135,110.475
+o035tufj1j2to59df208ozh5k,7fTAkwHYIRSZmjOBi2hZnr,City Thunderstorm,Stormy Station,False,58,0.161,0.65,-22.878,0.0767,0.0179,0.9,0.162,0.0337,129.586
+o035tufj1j2to59df208ozh5k,6H8uyA5LdEyEEHqOkCslYI,Under Shelter Rainstorm,Clam Pass,False,58,0.18,0.512,-21.409,0.0539,0.000132,0.795,0.471,0.0287,89.741
+o035tufj1j2to59df208ozh5k,01OzUhNPtpn2xqQpNZ5vCN,Struck by lightning,Indra,False,57,0.152,0.416,-27.572,0.0824,0.000132,0.17,0.38,0.0235,107.745
+o035tufj1j2to59df208ozh5k,3BMKIPPQOYUFEBEkbv6mVN,Truenos y relámpagos,Artipico,False,58,0.183,0.744,-21.487,0.0705,0.00595,0.962,0.46,0.0252,114.923
+o035tufj1j2to59df208ozh5k,1WzjuOh6r9WXVi6dsoLKcB,Beautiful Storm,Nature Vibrations,False,58,0.174,0.999,-18.197,0.0722,0.233,0.721,0.479,1e-05,87.698
+o035tufj1j2to59df208ozh5k,0cyCwaLbb1MV1Fc45e9Cwk,Bad Weather - Storm,Lavinium,False,51,0.183,0.000259,-18.815,0.141,2.9e-05,0.69,0.407,0.0263,87.558
+o035tufj1j2to59df208ozh5k,6Gn6lVvz2hQM6b23dVZmyB,Pacific Thunderstorm,The Nature Soundscapes,False,57,0.136,0.944,-18.856,0.0629,0.00824,0.928,0.922,0.016,83.231
+o035tufj1j2to59df208ozh5k,4cRYFKTQaFg95xiMF0izlG,Soft Thunder,Tellus Recordings,False,57,0.09,0.102,-27.101,0.0729,0.00242,0.958,0.497,0.0234,88.863
+o035tufj1j2to59df208ozh5k,7AEqfRTwTJfHqk0OcVTDEj,"Breeze, Light Rain, Thunder",Mother Nature Recordings,False,58,0.141,0.961,-22.407,0.0512,0.11,0.964,0.647,0.00348,84.055
+o035tufj1j2to59df208ozh5k,49lC3wHsYUScNtjjnlsA46,Pluie et tonnerre,Tonerre,False,58,0.198,0.292,-22.578,0.0561,1.07e-05,0.759,0.546,0.0234,89.93
+o035tufj1j2to59df208ozh5k,78Oreervde9fgGSIbr6ZOq,Skyfall And Thunder,Clam Pass,False,57,0.125,0.798,-17.141,0.0744,0.00028,0.856,0.578,0.00729,98.835
+o035tufj1j2to59df208ozh5k,3Cfu9rRRPtRMjQ1UiqJ0Q7,Tempête de pluie apaisante,Pluie et tonnerre,False,58,0.143,0.463,-25.021,0.11,0.00135,0.891,0.292,0.0547,78.331
+o035tufj1j2to59df208ozh5k,0dVn2OqVdmrCoRUN3cGjOj,Wide Rain - Thunder,Weather Pass,False,57,0.184,0.25,-19.598,0.0547,0.000155,0.976,0.617,0.036,88.913
+o035tufj1j2to59df208ozh5k,69VKaaJc2F7oRttcg6tTC7,Orage et pluie,Hi-Def FX,False,58,0.241,0.897,-17.103,0.0715,0.000205,0.964,0.525,0.00917,52.035
+o035tufj1j2to59df208ozh5k,3EEerX6cdmRrNq1jTzSWah,Thunder Afternoon (Rain),Natsound,False,51,0.0777,0.995,-16.537,0.0643,0.0309,0.985,0.338,0.0125,80.582
+o035tufj1j2to59df208ozh5k,3LlZ9ksKEHA60uyRQIOSL4,Pouring Thunderstorm,Water Effects Center,False,60,0.16,0.648,-20.33,0.0752,0.0566,0.792,0.572,0.01,128.637
+o035tufj1j2to59df208ozh5k,3mVOp7pRhdhkUOfDwfPGUM,Distant Storm,Adam Storme,False,53,0.176,0.736,-28.63,0.0499,0.00557,0.899,0.315,0.0141,75.413
+o035tufj1j2to59df208ozh5k,0O87UiGy34Kn82mdNkbZp3,Tormenta ligera,Tromentas Naturales,False,61,0.127,0.815,-22.048,0.0698,0.00193,0.861,0.931,0.0148,144.644
+o035tufj1j2to59df208ozh5k,2AtxBBgHbuuJFrv8h3U7ls,Tormenta de la selva,El Tiempo Central,False,59,0.15,0.998,-18.276,0.0873,0.0157,0.933,0.974,0.00723,105.149
+o035tufj1j2to59df208ozh5k,1SHBqaEqPX6BRyYnHqT3Zi,Evening Thunderstorm,SleepTherapy,False,51,0.123,0.612,-26.826,0.0709,0.137,0.885,0.528,0.0148,81.896
+o035tufj1j2to59df208ozh5k,3KSWMixsyBC6J4jjrZ3oMu,Trueno distante,Pacifica Norte,False,58,0.186,0.438,-21.501,0.0605,6.33e-05,0.908,0.419,0.0211,76.202
+o035tufj1j2to59df208ozh5k,2sOwfQNXbLm6sA3LEKTeVX,Rain & Thunder,Clam Pass,False,57,0.108,0.745,-21.238,0.0628,0.00952,0.898,0.814,0.00333,83.002
+o035tufj1j2to59df208ozh5k,4Y7LiWeExsPhEzmwI4Wh8p,Lluvia torrencial,Artipico,False,59,0.0553,0.475,-19.109,0.674,0.0138,0.947,0.867,1e-05,66.078
+o035tufj1j2to59df208ozh5k,6lZhsqlVmplDidqrUqCV8b,Pouring Rain And Thunder,Berg & Sjo,False,60,0.157,0.947,-18.268,0.0586,0.0171,0.948,0.378,1e-05,99.21
+o035tufj1j2to59df208ozh5k,1SAvBx0Uzm0UQz6u5J85M9,Pluie légère et tonnerre,Tonerre,False,57,0.0573,0.607,-23.21,0.0794,0.011,0.886,0.409,0.0351,57.346
+o035tufj1j2to59df208ozh5k,08w84SD08M8bE1beK2mG1P,Forte pluie et tonnerre,Orage et pluit,False,56,0.171,0.943,-23.278,0.0743,0.00428,0.862,0.947,0.0206,123.31
+o035tufj1j2to59df208ozh5k,4ec1aLY4vwvkoBUCXhd5r9,Légère pluie d'orage,Pluie et tonnerre,False,58,0.151,0.549,-24.57,0.0683,0.000386,0.901,0.599,0.0365,100.886
+o035tufj1j2to59df208ozh5k,3OlS3gkeNvoynH6sZ03fl1,Rainy Alley,Stormy Station,False,57,0.0788,0.84,-22.858,0.0595,0.0297,0.954,0.557,0.0186,83.558
+o035tufj1j2to59df208ozh5k,64FAYSx9qRx8NltbjhIepz,Tormenta de la ciudad,Mia Paleta,False,57,0.16,0.792,-19.72,0.0608,0.0204,0.874,0.396,0.022,129.024
+o035tufj1j2to59df208ozh5k,19vICChcY7vRxy4NXp28mn,Lluvia suave y truenos,Exovis,False,57,0.141,0.923,-21.403,0.0636,0.0757,0.976,0.898,0.00962,101.285
+o035tufj1j2to59df208ozh5k,1unfb0iDjqjrRiD6vQuSpz,Heavy Rain - Far away Thunder,Weather Pass,False,58,0.207,0.254,-18.78,0.0514,0.000386,0.845,0.413,0.0342,96.186
+o035tufj1j2to59df208ozh5k,390qr10wt5OInQ92Vd7ADt,Rain & Thunder,Ogień,False,57,0.0957,0.492,-31.627,0.0648,0.324,0.965,0.273,0.0321,88.597
+o035tufj1j2to59df208ozh5k,4g38l5vKQZ3LrEYSMJW7R3,Midnight Rumble,Weatherality,False,53,0.145,0.646,-13.815,0.0785,7.2e-06,0.996,0.405,0.0256,136.818
+o035tufj1j2to59df208ozh5k,1WFyRaDWcObWNk9CD2OCxq,Relaxing Thunder Rain,Weatherality,False,53,0.0833,0.998,-16.231,0.0835,0.0394,0.961,0.452,0.0031,167.156
+o035tufj1j2to59df208ozh5k,6mOyhVD6I8LNa9FOHqXQ1L,Energy,Sylvie Kaplan,False,53,0.0642,0.983,-15.148,0.0636,0.0739,0.962,0.614,0.0246,58.041
+o035tufj1j2to59df208ozh5k,20ztc7ZeHo8GqxxlMuZ2YW,Dripping Thunder,Thurricane,False,53,0.195,0.999,-14.241,0.103,0.139,0.897,0.419,0.00783,77.745
+o035tufj1j2to59df208ozh5k,4hcuR9G66aV0v53j8fVLuE,Go With the Flow,Thurricane,False,53,0.159,0.999,-14.393,0.103,0.0721,0.981,0.383,1e-05,111.203
+o035tufj1j2to59df208ozh5k,0jNTWoXM47Uyu8aEYvND4f,Thunder in the Rain,Lewis Woods,False,53,0.164,0.618,-17.524,0.0814,0.000108,0.801,0.678,0.0236,125.608
+o035tufj1j2to59df208ozh5k,4pi0xQcZkKVpTiLBuxcJYm,Let the Storm Pass,Lewis Woods,False,53,0.124,0.864,-15.231,0.0567,0.0522,0.879,0.34,0.0315,84.342
+o035tufj1j2to59df208ozh5k,5aBkKR82MfLvIBmJYL5vsz,The Mighty Storm,Thunderwards,False,53,0.229,0.938,-14.429,0.0668,0.000184,0.95,0.358,0.00718,53.813
+o035tufj1j2to59df208ozh5k,5yvsWvwVq8bYrltqTi9TxJ,Distant Rain,Pacific Rain,False,67,0.164,0.162,-25.235,0.0555,0.835,0.671,0.934,1e-05,83.693
+o035tufj1j2to59df208ozh5k,4CTDJG3F26MUJEwnJ2fhJh,Raining Me Softly,Epiphonema,False,68,0.237,0.512,-27.513,0.0465,0.119,0.323,0.818,0.00328,70.243
+o035tufj1j2to59df208ozh5k,5Jg2TWaUW9RaoUCFuKEBLx,Morgonregn,Regnskur,False,66,0.214,0.99,-31.911,0.0534,0.142,0.993,0.901,1e-05,109.631
+o035tufj1j2to59df208ozh5k,0M3WuiuXXtxT1g2uAydhSs,Det Regnar,Regnmannen,False,66,0.159,0.993,-13.688,0.05,0.125,1.0,0.786,1e-05,81.965
+o035tufj1j2to59df208ozh5k,3VeEplQsKzt4ls3tTJrtvO,Forest Spirits (Rain),NatuREM,False,67,0.126,1.0,-23.63,0.0353,0.173,0.897,0.929,1e-05,84.275
+o035tufj1j2to59df208ozh5k,3MU3OGBU2fJS23fIU3JE8s,Endless Rain Loop,Four Winds,False,66,0.196,0.881,-16.184,0.067,0.0212,0.892,0.403,0.0276,78.994
+o035tufj1j2to59df208ozh5k,678emSwcNj7TVaNlFRt2DC,Earth Rain,Celestial Noise,False,66,0.196,0.991,-16.965,0.0624,0.119,0.987,0.951,0.0207,137.201
+o035tufj1j2to59df208ozh5k,6zfCEuZfzq9vWeG22bj39P,El Trueno Desde Arriba,Adela Amando,False,53,0.186,0.883,-16.878,0.0724,0.00717,0.978,0.619,1e-05,117.716
+o035tufj1j2to59df208ozh5k,4GHMe27LwEBBkIgqhi12cJ,Le Tonnerre Claquant,Olivia Ange,False,53,0.169,1.0,-13.447,0.0826,0.00885,0.821,0.375,1e-05,117.087
+o035tufj1j2to59df208ozh5k,2a15jqyv9Sqm6hEPYZYFPz,Call the Thunder,Tropicallers,False,53,0.101,0.927,-15.849,0.0711,0.285,0.962,0.378,0.0206,80.376
+o035tufj1j2to59df208ozh5k,2MLSAw581M4TTjguuua1oV,Crackling Sky,Oblitzy,False,53,0.163,0.881,-13.542,0.0571,0.0663,0.956,0.389,0.0192,76.583
+o035tufj1j2to59df208ozh5k,6VBbtB6SJVmhCnRnqSt9Ec,Deep Rumble,Oblitzy,False,53,0.0775,0.0432,-11.938,0.0653,0.000118,0.989,0.374,0.0486,169.829
+o035tufj1j2to59df208ozh5k,5oJjJo0k8XduWQIrskmxZ9,Wednesday,Altostratus,False,54,0.16,0.756,-17.674,0.0794,0.00119,0.904,0.363,0.025,96.039
+o035tufj1j2to59df208ozh5k,2mwS92jhBI0Sl32boe5RVL,Evening Rain In Regent's Park - Seamless,Sounds Of The Royal Parks,False,53,0.164,0.9,-16.638,0.136,0.0474,0.654,0.454,0.0378,106.539
+o035tufj1j2to59df208ozh5k,1xNNHG4PheCFA1pNllWAQ7,Thunderstruck,Snore Patrol,False,59,0.24,0.958,-17.691,0.0907,0.309,0.741,0.516,0.0237,80.032
+o035tufj1j2to59df208ozh5k,4XtdcXBOp3tFW3mUtBvTCx,Under The Umbrella - Seamless,Tranquility Sound Machine,False,53,0.136,0.904,-18.046,0.0747,0.239,0.97,0.217,0.0283,142.516
+o035tufj1j2to59df208ozh5k,0Z7TLSV354yKvLrmbMJf8g,No Irrigation Needed - Seamless,The Outdoorian,False,53,0.0874,0.989,-16.684,0.061,0.85,0.874,0.489,0.00882,165.421
+o035tufj1j2to59df208ozh5k,3eRC23AjDFRiojUhdbrkDM,Storms Out,Nature Trudge,False,64,0.193,0.994,-13.704,0.0907,0.176,0.739,0.447,0.0139,79.005
+o035tufj1j2to59df208ozh5k,1ZlAyeaS19xgCxKHqAjY4I,Thunder And Drizzle - Seamless,Wrap Yourself Up,False,54,0.212,0.802,-20.579,0.0552,0.0108,0.779,0.306,0.0395,99.739
+o035tufj1j2to59df208ozh5k,5BAUdZVp4CLDp7BRE6W5Mr,Ice of Rain,Polar Night,False,57,0.16,0.62,-25.337,0.0639,8.08e-05,0.94,0.606,0.0287,129.976
+o035tufj1j2to59df208ozh5k,4aS4zVIrf5Hmfyn0eHW5DB,Flux D'inondation,Enregistrements Sonores De La Nature,False,52,0.134,0.999,-26.068,0.0542,0.87,0.99,0.829,1e-05,157.025
+o035tufj1j2to59df208ozh5k,26i94jI0wRp1huqUAAjMEM,Nuevos Sonidos De Lluvia,Dormir Cayendo Del Cielo,False,53,0.138,0.999,-26.011,0.0551,0.936,0.978,0.818,1e-05,151.536
+o035tufj1j2to59df208ozh5k,28WIaeozgN7ff4JoXlOywG,Calm Deluge Sounds,Wilderness Recorders,False,53,0.246,0.946,-14.285,0.123,0.137,0.534,0.981,0.00859,50.299
+o035tufj1j2to59df208ozh5k,4ZiKDSw7ieKgmY4ccQfagc,Lunch Break Storm,Amida Nature Sounds,False,57,0.184,0.622,-26.983,0.057,0.0146,0.975,0.256,0.0287,56.613
+o035tufj1j2to59df208ozh5k,3q3recgnKnn3XrQRLihg6U,Storm Through The Window,Amida Nature Sounds,False,55,0.073,0.69,-28.257,0.0734,0.000599,0.921,0.379,0.0303,78.522
+o035tufj1j2to59df208ozh5k,1xxD524mnciVxvx1xQK3bJ,Low Rumble of Rain and Thunder,Leonard Poole,False,54,0.0593,0.998,-13.683,0.157,0.13,0.975,0.359,0.0124,66.246
+o035tufj1j2to59df208ozh5k,67P3hjyYGjth8lNBl1gDsI,Medium Rain and Intense NJ Thunder,Leonard Poole,False,54,0.0918,0.944,-19.122,0.135,0.0119,0.995,0.364,0.0234,87.791
+o035tufj1j2to59df208ozh5k,2tameDUM4Zo3pLcEzg9OFU,Thundering Heights,Shaman,False,55,0.237,0.999,-13.356,0.123,0.349,0.97,0.722,0.0159,136.853
+o035tufj1j2to59df208ozh5k,5zvfHSjOJj3oWIV7CtUAe7,Almost Supernatural,Shaman,False,53,0.0591,0.993,-14.831,0.225,0.103,0.881,0.823,0.0224,58.287
+o035tufj1j2to59df208ozh5k,64dYaCKeQk2Dki02HFoWOi,Pouring Some Thunder,Nova Rogers,False,53,0.137,0.997,-12.326,0.171,0.00285,0.925,0.83,0.0101,101.547
+o035tufj1j2to59df208ozh5k,4mWGn5BKWKD8YDXpTIG3py,Contemplations #2,Oceanica,False,53,0.323,0.909,-22.35,0.0996,0.0834,0.933,0.671,0.0311,111.033
+o035tufj1j2to59df208ozh5k,6m4mgGH5VSiKwoAO6dym5k,By The Window,Oceanica,False,53,0.216,0.266,-28.988,0.0553,0.417,0.847,0.137,0.0194,94.271
+o035tufj1j2to59df208ozh5k,0ru1Q1p2CUz9fuc0yNLpHw,Soft Thunders,Oceanica,False,55,0.16,0.359,-25.255,0.0714,0.0144,0.928,0.476,0.0292,128.839
+o035tufj1j2to59df208ozh5k,0VElp1F9YurCuIl6NhqZc5,Storms a Brewing,Stardust Vibes,False,55,0.0876,0.966,-22.185,0.116,0.22,0.979,0.185,1e-05,87.612
+o035tufj1j2to59df208ozh5k,6Gs3SkXflNh1QrTcFVxjtz,Thunder In Spring,Peal Of Thunder,False,55,0.085,0.753,-30.002,0.253,0.00265,0.933,0.971,0.022,168.033
+o035tufj1j2to59df208ozh5k,4yVrW9Sd12IOeQoeXwfkKj,Woodland Thunder Sound,Cosmotic,False,54,0.101,0.796,-16.055,0.0839,0.0621,0.815,0.65,0.0328,77.341
+o035tufj1j2to59df208ozh5k,2Bk7dbzRy1TDNsL4mdH6dg,Thunderstorm Lullaby,Wellseed,False,55,0.111,0.381,-24.635,0.0848,0.162,0.92,0.297,0.0715,85.788
+o035tufj1j2to59df208ozh5k,5T9OJA2LwDfIy2N6tEoJSD,Deep Storm,Illustrike,False,54,0.145,0.266,-35.449,0.0587,0.0792,0.854,0.111,0.0379,103.562
+o035tufj1j2to59df208ozh5k,2LlSkv5N137jn1rvqs39vA,Shelter Rain,Illustrike,False,54,0.158,0.312,-33.512,0.0809,0.172,0.879,0.111,0.0394,108.813
+o035tufj1j2to59df208ozh5k,3d2loIRK1NH49qP6w7ydDH,Thunder & Streams,Astrinity,False,55,0.167,0.509,-15.603,0.102,0.0279,0.906,0.374,0.031,116.518
+o035tufj1j2to59df208ozh5k,0ovxaBAfSGc6ZFR2tZPNFG,Sky Full Of Thunder,AQUELLE,False,54,0.0772,0.837,-15.524,0.088,0.00403,0.676,0.141,0.0373,172.216
+o035tufj1j2to59df208ozh5k,5QTEWgziJG1uV32tAgYjv7,Thunder Nap,Heatriction,False,55,0.162,0.0793,-40.248,0.0591,0.0253,0.844,0.143,0.108,90.244
+o035tufj1j2to59df208ozh5k,5CQNpdepfUJbBoNHJu60Z9,Pleasing Thunder,Heatriction,False,54,0.157,0.493,-29.543,0.0965,0.0799,0.996,0.153,0.0367,108.024
+o035tufj1j2to59df208ozh5k,7jV5HQ9V02hy2r0WjZDGnl,A Storm For Sleep,A Tempestade,False,55,0.0806,0.436,-29.313,0.0695,0.00781,0.977,0.372,0.0313,83.925
+o035tufj1j2to59df208ozh5k,2aRwU4NEBchyPIAvzONd67,Storm Away,Dark Thunder Forest,False,57,0.369,0.664,-29.306,0.115,0.13,0.952,0.84,0.0338,75.469
+o035tufj1j2to59df208ozh5k,2NJISxdOO1keYuVzst55Jw,Goddess Of Thunder,Earth Thunder Sounds 2021,False,57,0.34,0.653,-30.151,0.258,0.125,0.959,0.26,0.0367,71.951
+o035tufj1j2to59df208ozh5k,7F0xezgLJNUnBl2n0Wm48W,Forest Thunderstorm,Earth Thunder Sounds 2021,False,58,0.278,0.869,-23.655,0.0653,0.326,0.945,0.489,0.0357,115.18
+o035tufj1j2to59df208ozh5k,2FdcQ9lycbLNjjxjZobvzT,Heavy Thunderstorm,Atlantic Thunders,False,56,0.212,0.832,-24.149,0.101,0.136,0.953,0.501,0.0357,92.57
+o035tufj1j2to59df208ozh5k,29XSvNdu4rTuvWgxeiMDM7,Mountain Thunderstorm,Atlantic Thunders,False,58,0.284,0.72,-28.125,0.0635,0.273,0.862,0.2,0.0287,103.996
+o035tufj1j2to59df208ozh5k,3eauTrySTM6lllpECM7akg,Sitting on the Porch During a Thunderstorm,Baltic Thunderstorms,False,57,0.268,0.863,-24.218,0.089,0.271,0.965,0.628,0.0348,47.153
+o035tufj1j2to59df208ozh5k,2Uuu9xFGwFfoY30wGWOG01,Thunderstorm at Night,Baltic Thunderstorms,False,58,0.262,0.652,-27.597,0.0661,0.197,0.653,0.204,0.0381,147.392
+o035tufj1j2to59df208ozh5k,4ndtxpFn1DfrKoXwsSnNug,Rain with Rolling and Clapping Thunder,In Natura,False,56,0.208,0.524,-29.367,0.0409,0.0033,0.91,0.2,0.0349,86.85
+o035tufj1j2to59df208ozh5k,1LbrOh8zHb6VRNJLQi8HmK,Thunder In The Night,Mountain Man Recordings,False,54,0.158,0.972,-17.413,0.0957,0.902,0.965,0.19,1e-05,110.411
+o035tufj1j2to59df208ozh5k,1Lb0zH7GmFN9mTXL6vX2UH,Thunder On The Mountain,Mountain Man Recordings,False,55,0.159,0.989,-17.133,0.0748,0.0105,0.979,0.364,1e-05,100.806
+o035tufj1j2to59df208ozh5k,3SeR8lSXT7oZ6MB7YLZqnr,Thunder Meditation,Tempest,False,53,0.206,0.768,-19.411,0.0634,3.52e-05,0.977,0.417,0.0187,51.78
+o035tufj1j2to59df208ozh5k,6UDwp5I6QMzgJEv4czsG48,Thunder Around The Clock,Lunacy,False,58,0.156,0.98,-28.771,0.0606,0.157,0.995,0.517,1e-05,133.65
+o035tufj1j2to59df208ozh5k,6bgUoT7qJnDPKZi6uopxwR,Hometown Thunders,ASMRainy,False,57,0.396,0.727,-23.043,0.0559,0.246,0.909,0.402,0.0428,79.581
+o035tufj1j2to59df208ozh5k,7gqGg9Fax0OdHyOcpatuL3,Lit up Sky,Indra,False,53,0.161,0.711,-25.374,0.0666,0.00261,0.918,0.431,0.0288,110.78
+o035tufj1j2to59df208ozh5k,7cJ41Y7QPLJiChkVBPcmsS,Light And Thunder,Indra,False,55,0.0823,0.937,-24.119,0.0532,0.0755,0.984,0.746,0.0169,76.813
+o035tufj1j2to59df208ozh5k,0gXGs4OoIwCEEDdKCwsOJE,Sleepy Storm,Indra,False,53,0.122,0.113,-24.778,0.0594,0.000278,0.121,0.724,0.0186,77.419
+o035tufj1j2to59df208ozh5k,1PVmI01F4mrbD0czddRlyq,Electric Dreams,Indra,False,54,0.168,0.657,-25.901,0.0747,0.000204,0.358,0.431,0.0336,126.493
+o035tufj1j2to59df208ozh5k,5wasNCesFpY5wSiYTar3uL,Forest Thunder,Empyrean,False,54,0.211,0.532,-26.652,0.0559,0.257,0.888,0.137,0.0684,109.242
+o035tufj1j2to59df208ozh5k,2HrG87Rc7DgpjyI02rcMPS,Tonnerre au printemps,Trueno Tropical,False,56,0.151,0.286,-30.817,0.0682,2.24e-05,0.902,0.274,0.0895,104.995
+o035tufj1j2to59df208ozh5k,0GdhZriQakFwHQZTrgoWKd,Sturm und Donner,Superystorm,False,56,0.168,0.376,-34.116,0.094,0.219,0.941,0.378,0.0314,83.33
+o035tufj1j2to59df208ozh5k,6YgWoAIFPLjOiSo0iilhdA,Sturm am Abend,Stormy Zeus,False,56,0.139,0.484,-30.413,0.0693,0.0152,0.863,0.247,0.0329,91.85
+o035tufj1j2to59df208ozh5k,0GHYPILlyRq1NTVNEmhNZR,Thunder In The Forest,Drizzly Bear,False,55,0.15,0.453,-24.785,0.0704,0.000391,0.963,0.413,0.277,90.317
+o035tufj1j2to59df208ozh5k,3Xdaw3S3286xOUvGwNWtp9,Hail Rain And Thunder in London,Rain Inc,False,52,0.206,1.0,-10.661,0.101,0.894,0.929,0.878,1e-05,82.269
+o035tufj1j2to59df208ozh5k,7t2gqm0vQJ9sdmiLXgmb9o,A Gentle Thunderstorm,Liquid Planet Recordings,False,55,0.184,0.998,-22.673,0.0951,0.78,0.965,0.663,1e-05,112.443
+o035tufj1j2to59df208ozh5k,1eAAKEMh69QfLafJAwgmXg,Distant Thunder At Night,Drakir Nature,False,55,0.32,0.207,-33.041,0.0866,0.0145,0.906,0.157,0.215,88.104
+o035tufj1j2to59df208ozh5k,5HRrUoj7oj7foIL10JVMu7,Light Rain Passing Thunder,Scandinavian Rain,False,55,0.231,0.297,-28.71,0.181,0.000252,0.841,0.392,0.213,80.117
+o035tufj1j2to59df208ozh5k,4yuc0tswxfh6DgaPTGXnA0,Lake Rain With Thunder,Slumbertronica,False,55,0.171,0.964,-24.478,0.0548,0.024,0.927,0.71,0.0125,118.7
+o035tufj1j2to59df208ozh5k,49in3cjv5iMex3ajzSl47a,"Medium rain, Thunder Threatening",Naturalia,False,53,0.315,0.988,-13.647,0.0625,0.0354,0.743,0.798,0.029,126.057
+o035tufj1j2to59df208ozh5k,0qTxu9veqYjT7qCJJtaMQr,Soft Rain Carrying Strong Lightnings,Naturalia,False,54,0.158,0.803,-26.091,0.0385,0.901,0.943,0.115,0.0243,86.378
+o035tufj1j2to59df208ozh5k,3sQRC5dgFDkPbVReUwMN9W,Thunder Volts,650 Watts,False,55,0.0681,0.833,-20.824,0.082,0.00117,0.523,0.401,0.0196,78.848
+o035tufj1j2to59df208ozh5k,6TxDMAKrOapQFF4MBsf4UV,Archipelago Rain & Thunder,Northerly Nature,False,55,0.112,0.872,-17.477,0.0576,0.00586,0.99,0.278,0.0264,81.639
+o035tufj1j2to59df208ozh5k,1eBBOLXyIfNyWHnHxwWVqV,"Wind Storm, Rain & Far Thunder (Stereo & HD)",Sound of the Wilderness,False,55,0.165,0.377,-17.208,0.0601,0.0232,0.678,0.318,1e-05,86.465
+o035tufj1j2to59df208ozh5k,4Q73bV2I8Bl55TWlBBUyr5,Electrostatic,Vedhamn Sounds,False,55,0.0682,0.968,-19.714,0.083,0.231,0.978,0.915,0.00678,79.05
+o035tufj1j2to59df208ozh5k,5H6GwQZbsw9LSewKcfb57O,Rain & Thunder Outside The Palace,Royal Rain,False,55,0.117,0.996,-18.452,0.0519,0.0463,0.976,0.493,0.00484,149.9
+o035tufj1j2to59df208ozh5k,3N96NGKoU8lgJs9ENxRUpc,Thunder In The Forest - Seamless,Tranquility Sound Machine,False,55,0.164,0.912,-16.953,0.088,1.01e-05,0.988,0.42,0.0368,105.311
+o035tufj1j2to59df208ozh5k,4usbGXSHEFUs8W9lXvGRw5,Thunderstorms In Italy - Seamless,Pluvious,False,55,0.154,0.976,-15.144,0.175,3.44e-06,0.989,0.801,0.016,132.889
+o035tufj1j2to59df208ozh5k,7jaUDokJnbVN5tFIUMKRqU,Stormy Harbor In The Evening,The Sound Dome,False,54,0.0964,0.963,-15.282,0.0659,0.0214,0.929,0.303,0.0225,88.815
+o035tufj1j2to59df208ozh5k,4V8j4m6ZoVd2pBGzVmBA3C,Subtle Thunderstorm,Creatress,False,55,0.128,0.341,-20.652,0.0661,0.0377,0.895,0.511,0.021,99.787
+o035tufj1j2to59df208ozh5k,7e3Hn9AFgrZrYgAZMJsvDb,Raining Rolling Thunder,Creatress,False,54,0.102,0.668,-15.939,0.137,0.00575,0.911,0.344,0.00895,87.732
+kaybae.,2bMDbfxlaViTIBfSOfIXHX,Saydee,LAKEY INSPIRED,False,0,0.639,0.36,-12.708,0.0303,0.744,0.272,0.098,0.47,132.004
+kaybae.,41GhanTRlBsHMgsOoHWyQh,Goodbye,"Tomppabeats, rei brown",False,1,0.396,0.383,-12.985,0.0748,0.535,0.822,0.105,0.12,75.638
+kaybae.,34c4wiTY2MQTyVWS2Nuz9u,Emotional Crank,Tomppabeats,False,2,0.726,0.329,-10.583,0.0929,0.908,0.00943,0.36,0.346,148.102
+kaybae.,3pUMsLZIy50bhHOR8K8EKG,Far Away,Tomppabeats,False,2,0.675,0.495,-11.151,0.0957,0.444,0.964,0.162,0.718,73.117
+kaybae.,5qC17VMNoZdF2gAw28FtsV,Monday Loop,Tomppabeats,False,8,0.742,0.384,-8.533,0.043,0.872,0.00305,0.132,0.354,69.006
+kaybae.,7MdZQXUBijQxcBkYz4G1Z5,Affection,Jinsang,False,9,0.698,0.193,-15.01,0.0902,0.914,0.937,0.0882,0.607,84.03
+kaybae.,3CFS6vCzVVsWL5veYusCe7,Egyptian Pools,Jinsang,False,4,0.665,0.597,-9.669,0.274,0.845,0.919,0.11,0.81,78.681
+kaybae.,6JSNx1XNeA96BwootZVi7f,Memories with Her,Kudasaibeats,False,40,0.683,0.245,-19.269,0.142,0.721,0.899,0.103,0.073,80.776
+kaybae.,7r5T6XCpDjcLXohuKTUBaV,indigo,"Kudasaibeats, Luv.Ly",False,46,0.72,0.281,-17.056,0.0556,0.94,0.92,0.113,0.422,104.996
+kaybae.,0sFwZqyIjDWckiS7FLxAjL,When I See You,Kudasaibeats,False,45,0.638,0.154,-17.921,0.0356,0.575,0.944,0.0898,0.11,160.052
+kaybae.,0f0gfm6wHjhqrBMHBn9Ajr,I Don't Sleep,Sarcastic Sounds,True,59,0.774,0.352,-13.13,0.214,0.105,0.741,0.348,0.258,80.51
+kaybae.,7CCkeTnElxf19T7XRQ5zXh,Pine Leaves.,Jinsang,False,1,0.559,0.432,-11.537,0.147,0.857,0.782,0.106,0.565,82.706
+kaybae.,4IGgG3xT8XL64Mf2P69F9d,The Girl I Haven't Met (Biskwiq Flip),"Kudasaibeats, Biskwiq",False,51,0.733,0.547,-5.464,0.203,0.301,0.00537,0.383,0.295,71.976
+kaybae.,69baR4N7m6NRbQCguB4EVa,Put Your Head on My Shoulder,Ain't EZ,False,0,0.736,0.471,-10.146,0.397,0.412,1.55e-06,0.315,0.611,97.389
+kaybae.,0hNduWmlWmEmuwEFcYvRu1,Sunset Lover,Petit Biscuit,False,70,0.783,0.467,-9.474,0.0503,0.729,0.809,0.109,0.236,90.838
+kaybae.,7qrBYrivpvfXUPBMmqh3dA,5:32pm,The Deli,False,65,0.691,0.186,-13.672,0.0487,0.686,0.934,0.0762,0.548,86.383
+kaybae.,7evUPABneVddplechlReII,im closing my eyes (Feat. shiloh),"potsu, Shiloh",False,1,0.895,0.109,-13.853,0.0996,0.534,0.549,0.106,0.546,134.067
+kaybae.,77Uo6nqkmG5eFLgTuQcZIV,Being in Love with U,Tomppabeats,False,1,0.629,0.334,-9.781,0.424,0.848,0.143,0.106,0.617,81.953
+kaybae.,7rm0dHohIn2Mnvp02CW9Ss,controlla,Idealism,False,0,0.788,0.446,-9.812,0.0693,0.54,0.694,0.273,0.545,80.033
+kaybae.,2GPKo5nrX2uwB8eSCebIIk,"sincerely, yours",Nohidea,False,0,0.605,0.396,-11.301,0.0509,0.8,0.872,0.141,0.622,80.957
+kaybae.,7IoVZ7yynM2uKQOTR0s0Ua,french inhale,[bsd.u],False,0,0.87,0.146,-11.877,0.22,0.499,0.941,0.105,0.889,80.087
+kaybae.,2RycgtfFQZOPgEGrzBGE0j,Getsomerest/sleepwell,"quickly, quickly",False,54,0.637,0.394,-13.536,0.286,0.605,0.305,0.0968,0.361,132.015
+kaybae.,2COBMrpsGXEagCGkjp2Siz,Jovial,Limes,False,0,0.764,0.185,-14.408,0.0489,0.918,0.926,0.118,0.378,69.972
+kaybae.,0oX75M5oIgft6yF9F8ror7,I'm Sorry (feat. Shiloh),Swell,False,0,0.942,0.531,-9.911,0.179,0.0819,0.000207,0.0317,0.71,134.953
+kaybae.,6ugrRFZUNIpLiqhLUgC7ix,Flowers,The Deli,False,53,0.838,0.364,-10.006,0.134,0.0849,0.981,0.26,0.218,79.987
+kaybae.,53pxuVsqLU3rIADN6T2COo,[oops],potsu,False,0,0.843,0.256,-13.565,0.0752,0.538,0.114,0.133,0.655,68.997
+kaybae.,41hXE5S8D4mRfcdqSMpmAC,The Girl Next Door,Tomppabeats,False,3,0.661,0.363,-12.866,0.676,0.716,0.363,0.33,0.882,74.967
+kaybae.,18BMwSjxO0AC0VxWG2THAR,Again,Tomppabeats,False,0,0.682,0.265,-13.734,0.0513,0.907,0.933,0.132,0.646,72.444
+kaybae.,5NJzn6tsVbk3dJ4WKE0nMt,hardly,eery,True,0,0.68,0.421,-10.801,0.28,0.882,0.0488,0.308,0.395,76.994
+kaybae.,2XpmzywSGH1OILU0mxSHBy,as long as it takes you,keshi,False,57,0.876,0.288,-9.208,0.321,0.449,0.000396,0.3,0.279,139.994
+kaybae.,6T4DWQX6xZtYv3t1iMJFi7,Frankee,Sarcastic Sounds,True,32,0.665,0.26,-6.719,0.098,0.347,0.843,0.135,0.758,172.027
+kaybae.,7AXFq61qqGpqgwkgfeQsP4,i don't want to say too much,sagun,False,30,0.768,0.354,-11.892,0.192,0.877,0.329,0.104,0.113,75.993
+kaybae.,2l8Hj0Frz3fEKEtxVd0MpN,pigments.,Fushou.,False,31,0.752,0.322,-12.053,0.268,0.854,0.933,0.124,0.501,79.899
+kaybae.,2QmTRlRynfRIj7HQOaB8Zu,memories of you,[bsd.u],False,0,0.815,0.23,-11.59,0.259,0.621,0.62,0.109,0.355,80.014
+kaybae.,4BGfM7Faj0dyEnSuaOw67j,I Fall in Love Too Easliy,Caleb Belkin,False,0,0.662,0.349,-14.022,0.214,0.637,0.00213,0.124,0.234,141.951
+kaybae.,5rBQIzDduJsmDbZ97gqWEW,sand castles,Fujitsu,False,1,0.784,0.312,-14.648,0.0513,0.576,0.851,0.128,0.63,129.94
+kaybae.,0FZkdmMJpAfxF1De5WxMro,forgive me,Nohidea,False,0,0.691,0.368,-11.882,0.338,0.986,0.483,0.373,0.168,76.002
+kaybae.,5Mwktvz6rYFnS7wSaC38dE,Naïve Unprepared Child,Zach Farache,False,0,0.698,0.36,-15.142,0.112,0.911,0.454,0.0945,0.334,170.196
+kaybae.,0yK8sWD6cfrc7pGfaPIcZH,Sleep Walk,Santo & Johnny,False,64,0.779,0.212,-9.759,0.0362,0.759,0.959,0.235,0.444,94.675
+kaybae.,299vmLW2iaQxe8y9HLWNiH,just ask,weird inside,False,45,0.51,0.213,-6.717,0.176,0.9,0.0487,0.0978,0.173,77.976
+kaybae.,7deychAhzSs7cWPvxbR7fT,the happiness of seeing someone again,Burbank,False,23,0.718,0.343,-8.784,0.0614,0.712,0.919,0.278,0.51,180.059
+kaybae.,5n16dEoZ1OwdpqOIK13m1X,Faces,Knowmadic,False,0,0.615,0.424,-12.324,0.114,0.968,0.809,0.106,0.178,159.033
+kaybae.,6sciICDOus9ej2estmFD2E,Swix,HM Surf,False,0,0.848,0.336,-15.497,0.282,0.456,0.466,0.263,0.643,77.024
+kaybae.,23gcQr3NRKzLXsP9H5jFQ1,my new love,Elijah Who,False,8,0.614,0.277,-11.943,0.042,0.967,0.891,0.0698,0.236,84.938
+kaybae.,3REPd7ROZFT8HcasWpc6tb,please do,mt. fujitive,False,0,0.794,0.185,-10.392,0.0623,0.912,0.916,0.128,0.609,80.012
+kaybae.,6orlX73aU7mnWMTwYweGPD,Wholehearted Wanderers,Ibrahim,False,16,0.675,0.268,-15.886,0.043,0.104,0.755,0.0463,0.12,74.996
+kaybae.,3hENrrSS6346OA29vZOW3l,you'll be alright,Burbank,False,12,0.627,0.409,-6.779,0.416,0.764,0.323,0.33,0.374,79.894
+kaybae.,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,True,86,0.64,0.74,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879
+kaybae.,4MVk79dmYqi7HQs0bMgboy,Ghost Duet,Louie Zong,False,61,0.707,0.234,-16.523,0.0864,0.96,0.861,0.124,0.611,78.036
+kaybae.,0sHFw13WH3LtSB3yP8UMYJ,Falling for U,"Peachy!, mxmtoon",False,0,0.516,0.358,-12.018,0.424,0.743,1.3e-06,0.0813,0.397,79.509
+kaybae.,6Tt9PBM6oWGwVnxyzuM84j,jaded,sadeyes,True,59,0.703,0.386,-11.447,0.0672,0.0645,1.55e-06,0.257,0.192,124.117
+kaybae.,54nXfazEeJzQSPxbIM6WsN,Trust,Lo'fi Boy,False,0,0.736,0.212,-24.064,0.507,0.623,0.702,0.537,0.805,119.84
+kaybae.,0CvaOecRnYE1fyErhpXgbK,Moonlight Shawty,"Fatboibari, Shiloh",True,0,0.686,0.195,-15.136,0.151,0.841,0.00109,0.0816,0.129,105.99
+kaybae.,1HsPRFQdULoSCBNDrlWbgb,I would,"slchld, Harris Cole, Aso",False,0,0.497,0.359,-9.406,0.0886,0.866,0.00853,0.116,0.104,75.869
+kaybae.,4ZLzoOkj0MPWrTLvooIuaa,Get You The Moon (feat. Snøw),"Kina, Snøw",False,80,0.498,0.235,-16.541,0.188,0.72,0.0,0.144,0.0895,118.917
+kaybae.,1LGFhRGycG5VI9cU8gFgVP,Losing Interest,"itssvd, Shiloh Dynasty",False,0,0.753,0.355,-13.295,0.0898,0.48,0.87,0.122,0.506,111.863
+kaybae.,506O2O13slCAUEo6w8aqr8,I'll Keep You Safe,sagun,False,0,0.755,0.0625,-24.694,0.0555,0.945,0.816,0.178,0.462,114.984
+kaybae.,58wyJLv6yH1La9NIZPl3ne,Can We Kiss Forever?,"Kina, Adriana Proenza",False,76,0.522,0.128,-18.717,0.0357,0.894,0.026,0.0941,0.124,109.986
+kaybae.,12PPtN6iHLnPVKuVzxfWSM,Who? (feat. Shiloh Dynasty),"TSUKI, Shiloh Dynasty",False,0,0.839,0.749,-7.167,0.149,0.453,0.0137,0.224,0.292,110.011
+kaybae.,1VFbHdNzYUJr0FsxoayP1N,Grape Soda,Rook1e,True,0,0.54,0.48,-8.728,0.0554,0.334,0.00166,0.177,0.68,66.918
+kaybae.,4SKBaun9EERfPsuLYqF1Fm,Blue Boi,LAKEY INSPIRED,False,58,0.807,0.229,-12.842,0.0647,0.739,0.901,0.0663,0.348,139.967
+kaybae.,1kUFzEpmpUJWlW6lY1KfIs,fall in love,coldbrew,False,31,0.751,0.264,-8.792,0.106,0.92,0.858,0.0978,0.529,83.979
+kaybae.,5mkRGTbm3BwPzNQL9oBV9e,Lost in You,khai dreams,False,11,0.771,0.607,-12.02,0.113,0.336,0.0,0.122,0.79,90.039
+kaybae.,2zPcVDSpYNVKQ5c7jR7MXj,summer depression,girl in red,True,5,0.691,0.306,-15.651,0.0544,0.632,0.479,0.108,0.62,129.929
+kaybae.,1gGhqfs2pDTOI30AEXMXrn,Alien Boy,Oliver Tree,True,0,0.802,0.599,-5.169,0.0997,0.112,0.0,0.236,0.484,130.108
+kaybae.,60bHRp4901AmCtPPPsytte,strangers,"biosphere, CIKI, Chris Wright, love-sadKID",False,54,0.735,0.389,-12.291,0.354,0.687,3.25e-06,0.125,0.729,73.831
+kaybae.,4wJ8dJKBAxdDe5cUx8K779,R.I.P. (feat. Trippie Redd),"Joji, Trippie Redd",True,64,0.716,0.515,-9.651,0.0305,0.618,0.257,0.136,0.383,99.284
+kaybae.,3tWa5qmAJ2OsHV6KxNZBxc,Groupie Love (feat. A$AP Rocky),"Lana Del Rey, A$AP Rocky",True,0,0.347,0.594,-7.33,0.0423,0.111,1.91e-06,0.11,0.163,175.944
+kaybae.,1BYZxKSf0aTxp8ZFoeyM3d,we fell in love in october,girl in red,False,20,0.566,0.366,-12.808,0.028,0.113,0.181,0.155,0.237,129.959
+kaybae.,2IOFZdYYkFxEHVz1w34PoL,Cherry,Harry Styles,False,74,0.53,0.512,-9.261,0.0259,0.615,0.00453,0.129,0.411,95.946
+kaybae.,36V4aP2bpDUuvBYcpku9LI,Pure Imagination,"Unclenathannn, Shiloh Dynasty",True,0,0.824,0.0312,-15.873,0.0921,0.765,7.55e-05,0.0845,0.314,72.727
+kaybae.,5hM5arv9KDbCHS0k9uqwjr,Borderline,Tame Impala,False,84,0.621,0.873,-3.067,0.0369,0.0406,9.1e-06,0.0824,0.873,97.96
+kaybae.,2T2Tn41RJDWxIuF3Bh65AJ,F U Till I F U,"Call Me Karizma, Cass",True,52,0.581,0.601,-5.673,0.0487,0.24,0.000143,0.114,0.132,80.012
+kaybae.,4Zc4kyc7VSdZNF9wFeBIcz,Mess,Trevor Daniel,False,2,0.655,0.56,-7.97,0.0389,0.124,3.75e-06,0.106,0.0917,154.957
+kaybae.,47Bg6IrMed1GPbxRgwH2aC,Best Friend,Rex Orange County,True,13,0.575,0.714,-5.247,0.0596,0.395,0.0,0.115,0.32,144.982
+kaybae.,2O9KgUsmuon6Gycdmagc6t,Princess Bubblegum,ilyTOMMY,False,69,0.589,0.484,-11.613,0.0742,0.42,0.0385,0.109,0.0726,139.998
+kaybae.,6N22FZs2ZhPBYi3b9XPajV,Still Don't Know My Name,Labrinth,False,80,0.316,0.63,-5.963,0.117,0.471,0.262,0.205,0.313,89.643
+kaybae.,71wDmInTs45Pb2ggtLcc71,Cigarettes and Sex,"prxz, Shiloh Dynasty",False,0,0.825,0.205,-15.117,0.233,0.733,0.00086,0.0982,0.449,93.906
+kaybae.,4gRuC34ZpRcpVXxMXM1csQ,You,Petit Biscuit,False,57,0.57,0.339,-13.549,0.0645,0.949,0.924,0.0968,0.487,162.387
+kaybae.,7wicS9jiXpsk5gP1iZgrdJ,Be Alright,Surfaces,False,40,0.744,0.627,-6.689,0.163,0.391,0.00203,0.093,0.476,149.817
+kaybae.,0EFZosjy8fF2IZsVzryVJ8,Borealis,Nohone,False,0,0.609,0.329,-15.374,0.0661,0.715,0.856,0.0535,0.0675,72.141
+kaybae.,1QIsVlaCz3U5GfsEJE9O8L,Quiet Storm,Shierro,False,64,0.613,0.526,-9.243,0.031,0.669,0.933,0.168,0.108,154.082
+kaybae.,7woCxOw0jmj65ohlQ3x0tH,controlla,Idealism,False,9,0.788,0.446,-9.812,0.0693,0.54,0.694,0.273,0.545,80.033
+kaybae.,5ehVOwEZ1Q7Ckkdtq0dY1W,Snowman,WYS,False,5,0.717,0.193,-16.141,0.0459,0.802,0.893,0.0653,0.0447,109.992
+kaybae.,4PCMttKgDScL8IbN59lF11,letting go,mood.,False,60,0.521,0.289,-12.812,0.0292,0.65,0.843,0.0878,0.0715,74.987
+kaybae.,2TfmC5Ll2KNf0CndJafNLv,Cold Morning,LoFi Waiter,False,55,0.619,0.53,-8.98,0.0363,0.453,0.865,0.135,0.118,80.001
+kaybae.,398vOcQlP9VrYkOoINDfRo,Dreamland Sequence,COIN,False,0,0.136,0.405,-11.746,0.0331,0.332,0.821,0.304,0.321,101.14
+kaybae.,4xpL3WkjYgXSSEHwpvA3Yf,true blue - sped up,sorry idk,False,32,0.365,0.494,-7.785,0.0412,0.483,0.000378,0.546,0.217,130.663
+kaybae.,2Y67qsABsPKMrvCxPCzL6r,We Go Down Together (with Khalid),"Dove Cameron, Khalid",False,76,0.494,0.348,-9.791,0.03,0.652,1.07e-05,0.0859,0.134,104.923
+kaybae.,38GBNKZUhfBkk3oNlWzRYd,NDA,Billie Eilish,True,76,0.765,0.373,-9.921,0.0713,0.341,0.525,0.112,0.554,85.016
+kaybae.,20uZlOriIFYJt21nCwyAah,In My Eyes,Beowülf,False,55,0.726,0.276,-15.974,0.118,0.487,0.899,0.122,0.405,171.093
