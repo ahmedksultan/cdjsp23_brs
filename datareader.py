@@ -8,7 +8,7 @@ import numpy as np
 import math
 import json
 from joblib import delayed, Parallel
-input = 'datacollection_042623.csv'
+input = 'datacollection_050323.csv'
 
 
 # update access keys here for Spotify API here :)
@@ -64,6 +64,11 @@ def get_audio_features_full(songs):
         results.extend(response)
     return results
 
+def get_user_data_safe(username):
+    try:
+        return get_data_from_user(username)
+    except spotipy.exceptions.SpotifyException as e:
+        return pd.DataFrame()
 
 def get_data_from_user(username):
     print("Started " + username + "...")
@@ -193,14 +198,14 @@ def print_general():
 
     # shadow wizard money gang multithreading sorcery
     # https://stackoverflow.com/questions/5236364/how-to-parallelize-list-comprehension-calculations-in-python
-    frames = Parallel(n_jobs=8)(delayed(get_data_from_user)(u)
+    frames = Parallel(n_jobs=8)(delayed(get_user_data_safe)(u)
                                 for u in stripped_usernames)
 
     frames = list(filter(lambda x: not x.empty, frames))
     all_data = pd.concat(frames)
 
-    all_data.to_csv('all_cornell.csv', index=False)
-
+    all_data.to_csv('all_cornell.csv', index=False) 
+   
 
 def get_playlist_data(username, playlist_id):
     songs = []
@@ -327,7 +332,7 @@ def parse_playlist(question):
     all_data.to_csv('all_cornell_' + dict[question] + '.csv', index=False)
 
 
-# print_general()
+print_general()
 parse_playlist('Q11_1')  # Gym
 parse_playlist('Q11_2')  # Study
 parse_playlist('Q11_3')  # Party
